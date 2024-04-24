@@ -1,0 +1,2921 @@
+{
+  "@id": "https://data.datatourisme.fr/3/a2319df0-159b-3d6c-a85c-619160a085d7",
+  "dc:identifier": "sitra2i-TROYES-6674859",
+  "@type": [
+    "schema:Accommodation",
+    "schema:Apartment",
+    "schema:LodgingBusiness",
+    "schema:Product",
+    "Accommodation",
+    "AccommodationProduct",
+    "Apartment",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "Product",
+    "RentalAccommodation",
+    "SelfCateringAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "L'Idéal"
+    ]
+  },
+  "availableLanguage": [
+    "Anglais",
+    "Russe"
+  ],
+  "creationDate": "2023-09-24",
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/ef971846-61e2-3e36-a7ba-8f9546ebfbd3",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/d50a9103-ca79-365f-aad8-705ee9739035",
+        "schema:addressLocality": "Troyes",
+        "schema:postalCode": "10000",
+        "schema:streetAddress": [
+          "16 Rue Aristide Briand"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:10387",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Troyes"
+            ],
+            "pt": [
+              "Troyes"
+            ],
+            "en": [
+              "Troyes"
+            ],
+            "it": [
+              "Troyes"
+            ],
+            "fr": [
+              "Troyes"
+            ],
+            "nl": [
+              "Troyes"
+            ],
+            "es": [
+              "Troyes"
+            ]
+          },
+          "insee": "10387",
+          "isPartOfDepartment": {
+            "@id": "kb:France4410",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Aube"
+              ],
+              "pt": [
+                "Aube"
+              ],
+              "en": [
+                "Aube"
+              ],
+              "it": [
+                "Aube"
+              ],
+              "fr": [
+                "Aube"
+              ],
+              "nl": [
+                "Aube"
+              ],
+              "es": [
+                "Aube"
+              ]
+            },
+            "insee": "10",
+            "isPartOfRegion": {
+              "@id": "kb:France44",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Grand Est"
+                ],
+                "pt": [
+                  "Grand Est"
+                ],
+                "en": [
+                  "Grand Est"
+                ],
+                "it": [
+                  "Grand Est"
+                ],
+                "fr": [
+                  "Grand Est"
+                ],
+                "nl": [
+                  "Grand Est"
+                ],
+                "es": [
+                  "Grand Est"
+                ]
+              },
+              "insee": "44",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "contact@troyeslachampagne.com"
+    ],
+    "schema:legalName": "Office de Tourisme Troyes la Champagne",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.troyeslachampagne.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/6c960dda-efb7-39b8-9229-7e88e3a297e4",
+      "schema:email": [
+        "bonjour@aube-champagne.com"
+      ],
+      "schema:legalName": "Aube en Champagne Tourisme",
+      "schema:telephone": [
+        "+33 3 25 42 50 00"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.aube-champagne.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/b8c7104e-b98d-3e98-90b0-b44d7b92e00d",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/5e2977ff-97e3-3314-8b05-5b4323df37d9",
+          "schema:addressLocality": "Sainte-Savine",
+          "schema:postalCode": "10300",
+          "schema:streetAddress": [
+            "11 rue des Noës"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:10362",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Sainte-Savine"
+              ],
+              "pt": [
+                "Sainte-Savine"
+              ],
+              "en": [
+                "Sainte-Savine"
+              ],
+              "it": [
+                "Sainte-Savine"
+              ],
+              "fr": [
+                "Sainte-Savine"
+              ],
+              "nl": [
+                "Sainte-Savine"
+              ],
+              "es": [
+                "Sainte-Savine"
+              ]
+            },
+            "insee": "10362",
+            "isPartOfDepartment": {
+              "@id": "kb:France4410",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Aube"
+                ],
+                "pt": [
+                  "Aube"
+                ],
+                "en": [
+                  "Aube"
+                ],
+                "it": [
+                  "Aube"
+                ],
+                "fr": [
+                  "Aube"
+                ],
+                "nl": [
+                  "Aube"
+                ],
+                "es": [
+                  "Aube"
+                ]
+              },
+              "insee": "10",
+              "isPartOfRegion": {
+                "@id": "kb:France44",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Grand Est"
+                  ],
+                  "pt": [
+                    "Grand Est"
+                  ],
+                  "en": [
+                    "Grand Est"
+                  ],
+                  "it": [
+                    "Grand Est"
+                  ],
+                  "fr": [
+                    "Grand Est"
+                  ],
+                  "nl": [
+                    "Grand Est"
+                  ],
+                  "es": [
+                    "Grand Est"
+                  ]
+                },
+                "insee": "44",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:legalName": "L'Idéal",
+      "schema:telephone": [
+        "+33 3 25 81 83 05"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.gites-de-france-aube.com/location-vacances-City-break-a-Sainte-savine-10G490.html"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/d85e6952-6386-32ec-8ccc-dcb123e326c3",
+      "dc:description": {
+        "de": [
+          "Sie werden die Dekoration und die Qualität der Leistungen zu schätzen wissen, Sie müssen nur noch Ihre Koffer abstellen! Geschäfte und Annehmlichkeiten befinden sich in der Nähe. Ideal, um während Ihres Aufenthalts alles zu Fuß zu erledigen.\r\n\r\nDie helle Wohnung besteht aus einem Wohnraum mit ausgestatteter Küche und Essbereich, einem Schlafzimmer mit Doppelbett (160x200) und einer kleinen Sitzecke (Sessel + Ausziehtisch), einem Badezimmer (große Dusche + Waschbecken + WC). All-inclusive-Aufenthalt (Endreinigung, gemachtes Bett, Handtücher und Haushaltswäsche, Hygieneartikel, Heizung, Strom, WLAN).\r\n\r\n(Quelle: Gîtes de France Aube)"
+        ],
+        "en": [
+          "You'll love the decor and the quality of the fixtures and fittings, so all you have to do is put your suitcases down! Shops and amenities nearby. Ideal for walking to everything during your stay.\r\n\r\nThis bright flat comprises a living room with fitted kitchen and dining area, a bedroom with double bed (160x200) and a small sitting area (armchairs + nest of tables), and a shower room (large shower + washbasin + WC). All-inclusive stay (end-of-stay cleaning, bed made, bathroom and household linen, hygiene products, heating, electricity, wifi).\r\n\r\n(Source : Gîtes de France Aube)"
+        ],
+        "it": [
+          "L'arredamento e la qualità degli impianti e delle attrezzature vi piaceranno, quindi non dovrete far altro che posare le valigie! Negozi e servizi nelle vicinanze. Ideale per fare tutto a piedi durante il vostro soggiorno.\r\n\r\nQuesto luminoso appartamento è composto da un soggiorno con cucina attrezzata e zona pranzo, una camera da letto con letto matrimoniale (160x200) e un piccolo salotto (poltrone + tavolino), e un bagno con doccia (grande doccia + lavabo + WC). Soggiorno all-inclusive (pulizia di fine soggiorno, biancheria da letto, da bagno e per la casa, prodotti per l'igiene, riscaldamento, elettricità, wifi).\r\n\r\n(Fonte: Gîtes de France Aube)"
+        ],
+        "fr": [
+          "Vous apprécierez la décoration et la qualité des prestations, vous aurez juste à poser vos valises ! Commerces et commodités à proximité. Idéal pour faire tout à pieds durant votre séjour.\r\n\r\nL'appartement lumineux se compose d'une pièce de vie avec cuisine équipée et coin repas, d'une chambre avec lit double (160x200) et d'un petit coin salon (fauteuils + tables gigognes), d'une salle d'eau (grande douche + lavabo + wc). Séjour tout inclus (ménage de fin de séjour, lit fait, linge de toilette et de maison, produits d'hygiène, chauffage, électricité, wifi).\r\n\r\n(Source : Gîtes de France Aube)"
+        ],
+        "es": [
+          "Le encantará la decoración y la calidad de las instalaciones y accesorios, ¡así que lo único que tiene que hacer es dejar las maletas! Tiendas y servicios cerca. Ideal para hacer todo a pie durante su estancia.\r\n\r\nEste luminoso apartamento consta de una sala de estar con cocina equipada y zona de comedor, un dormitorio con cama doble (160x200) y una pequeña zona de estar (sillones + nido de mesas), y un cuarto de ducha (ducha grande + lavabo + WC). Estancia todo incluido (limpieza de final de estancia, cama hecha, ropa de baño y de hogar, productos de higiene, calefacción, electricidad, wifi).\r\n\r\n(Fuente: Gîtes de France Aube)"
+        ],
+        "nl": [
+          "Je zult dol zijn op het decor en de kwaliteit van de inrichting, dus het enige wat je hoeft te doen is je koffers neerzetten! Winkels en voorzieningen in de buurt. Ideaal om alles te voet te bereiken tijdens je verblijf.\r\n\r\nDit lichte appartement bestaat uit een woonkamer met ingerichte keuken en eethoek, een slaapkamer met tweepersoonsbed (160x200) en een kleine zithoek (fauteuils + tafelnest), en een doucheruimte (ruime douche + wastafel + wc). All-inclusive verblijf (eindschoonmaak, opgemaakte bedden, bad- en huishoudlinnen, hygiëneproducten, verwarming, elektriciteit, wifi).\r\n\r\n(Bron: Gîtes de France Aube)"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/c22e269d-95b0-31db-b0e1-d28a6bf4728f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c635ea1c-7ea4-3883-9e1c-b31d63db5b0e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasMainRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/0ccd823c-e277-3cf7-b5d5-f137a2e2a793",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/deb256b9-b464-3c84-9f50-30b22543227c",
+          "ebucore:isCoveredBy": "City Break L'Idéal - © Gîtes de France Aube",
+          "ebucore:title": {
+            "fr": [
+              "L'Idéal - © Gîtes de France Aube (1).JPG"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "City Break L'Idéal - © Gîtes de France Aube"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/42aeab31-196c-34b5-969c-0ca0c622c7d6",
+          "ebucore:locator": [
+            "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/17/38/19211793.jpg"
+          ],
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/096f01e4-8d58-3066-b917-829651fd3514",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/ebc560d4-fc9f-325a-a905-147141a4dfee",
+          "ebucore:title": {
+            "fr": [
+              "L'Idéal - © Gîtes de France Aube (6).JPG"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "City Break L'Idéal - © Gîtes de France Aube"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/173c130b-c018-35bd-af6c-f844b5848fbf",
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            },
+            {
+              "@id": "kb:PNG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "PDF-Bild"
+                ],
+                "pt": [
+                  "Imagem PDF"
+                ],
+                "en": [
+                  "PDF image file"
+                ],
+                "it": [
+                  "Immagine PDF"
+                ],
+                "fr": [
+                  "Image PDF"
+                ],
+                "nl": [
+                  "Pdf-afbeelding"
+                ],
+                "es": [
+                  "Imagen PDF"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/png"
+                ],
+                "pt": [
+                  "image/png"
+                ],
+                "en": [
+                  "image/png"
+                ],
+                "it": [
+                  "image/png"
+                ],
+                "fr": [
+                  "image/png"
+                ],
+                "nl": [
+                  "image/png"
+                ],
+                "es": [
+                  "image/png"
+                ]
+              }
+            }
+          ],
+          "ebucore:locator": [
+            "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/26/38/19211802.jpg"
+          ],
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/0b5b89e0-b7c9-3563-a583-f3e9a196c1fd",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/03270a68-55cd-33d2-86a7-167bbf1407d1",
+          "ebucore:title": {
+            "fr": [
+              "L'Idéal - © Gîtes de France Aube (12).JPG"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "City Break L'Idéal - © Gîtes de France Aube"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/7715d005-0035-30fa-8fef-441560d52047",
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            },
+            {
+              "@id": "kb:PNG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "PDF-Bild"
+                ],
+                "pt": [
+                  "Imagem PDF"
+                ],
+                "en": [
+                  "PDF image file"
+                ],
+                "it": [
+                  "Immagine PDF"
+                ],
+                "fr": [
+                  "Image PDF"
+                ],
+                "nl": [
+                  "Pdf-afbeelding"
+                ],
+                "es": [
+                  "Imagen PDF"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/png"
+                ],
+                "pt": [
+                  "image/png"
+                ],
+                "en": [
+                  "image/png"
+                ],
+                "it": [
+                  "image/png"
+                ],
+                "fr": [
+                  "image/png"
+                ],
+                "nl": [
+                  "image/png"
+                ],
+                "es": [
+                  "image/png"
+                ]
+              }
+            }
+          ],
+          "ebucore:locator": [
+            "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/20/38/19211796.jpg"
+          ],
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/0ccd823c-e277-3cf7-b5d5-f137a2e2a793",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/deb256b9-b464-3c84-9f50-30b22543227c",
+          "ebucore:isCoveredBy": "City Break L'Idéal - © Gîtes de France Aube",
+          "ebucore:title": {
+            "fr": [
+              "L'Idéal - © Gîtes de France Aube (1).JPG"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "City Break L'Idéal - © Gîtes de France Aube"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/42aeab31-196c-34b5-969c-0ca0c622c7d6",
+          "ebucore:locator": [
+            "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/17/38/19211793.jpg"
+          ],
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/596f8ec5-145c-3724-ac91-59ffc765bdb1",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/ab67b010-18af-3f67-bdaf-d61063b4df68",
+          "ebucore:title": {
+            "fr": [
+              "L'Idéal - © Gîtes de France Aube (11).JPG"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "City Break L'Idéal - © Gîtes de France Aube"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/dd5e4bf6-e84e-3412-8ae1-c6fcaaa44e0b",
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            },
+            {
+              "@id": "kb:PNG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "PDF-Bild"
+                ],
+                "pt": [
+                  "Imagem PDF"
+                ],
+                "en": [
+                  "PDF image file"
+                ],
+                "it": [
+                  "Immagine PDF"
+                ],
+                "fr": [
+                  "Image PDF"
+                ],
+                "nl": [
+                  "Pdf-afbeelding"
+                ],
+                "es": [
+                  "Imagen PDF"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/png"
+                ],
+                "pt": [
+                  "image/png"
+                ],
+                "en": [
+                  "image/png"
+                ],
+                "it": [
+                  "image/png"
+                ],
+                "fr": [
+                  "image/png"
+                ],
+                "nl": [
+                  "image/png"
+                ],
+                "es": [
+                  "image/png"
+                ]
+              }
+            }
+          ],
+          "ebucore:locator": [
+            "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/21/38/19211797.jpg"
+          ],
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/5e80b3f6-6c21-3417-9f28-290cab710fbe",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/203a7187-889c-3469-b1af-5f1230456084",
+          "ebucore:title": {
+            "fr": [
+              "L'Idéal - © Gîtes de France Aube (10).JPG"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "City Break L'Idéal - © Gîtes de France Aube"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/80c9c4d8-8821-307e-810d-249e7b38e1b3",
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            },
+            {
+              "@id": "kb:PNG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "PDF-Bild"
+                ],
+                "pt": [
+                  "Imagem PDF"
+                ],
+                "en": [
+                  "PDF image file"
+                ],
+                "it": [
+                  "Immagine PDF"
+                ],
+                "fr": [
+                  "Image PDF"
+                ],
+                "nl": [
+                  "Pdf-afbeelding"
+                ],
+                "es": [
+                  "Imagen PDF"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/png"
+                ],
+                "pt": [
+                  "image/png"
+                ],
+                "en": [
+                  "image/png"
+                ],
+                "it": [
+                  "image/png"
+                ],
+                "fr": [
+                  "image/png"
+                ],
+                "nl": [
+                  "image/png"
+                ],
+                "es": [
+                  "image/png"
+                ]
+              }
+            }
+          ],
+          "ebucore:locator": [
+            "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/22/38/19211798.jpg"
+          ],
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/6079ac31-77e1-34e9-9153-6210c01ff79d",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/8fd51755-67c5-37d4-978b-36894f7cbc9d",
+          "ebucore:title": {
+            "fr": [
+              "L'Idéal - © Gîtes de France Aube (7).JPG"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "City Break L'Idéal - © Gîtes de France Aube"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/722f14a3-52b5-3c20-adc2-2497f1d97554",
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            },
+            {
+              "@id": "kb:PNG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "PDF-Bild"
+                ],
+                "pt": [
+                  "Imagem PDF"
+                ],
+                "en": [
+                  "PDF image file"
+                ],
+                "it": [
+                  "Immagine PDF"
+                ],
+                "fr": [
+                  "Image PDF"
+                ],
+                "nl": [
+                  "Pdf-afbeelding"
+                ],
+                "es": [
+                  "Imagen PDF"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/png"
+                ],
+                "pt": [
+                  "image/png"
+                ],
+                "en": [
+                  "image/png"
+                ],
+                "it": [
+                  "image/png"
+                ],
+                "fr": [
+                  "image/png"
+                ],
+                "nl": [
+                  "image/png"
+                ],
+                "es": [
+                  "image/png"
+                ]
+              }
+            }
+          ],
+          "ebucore:locator": [
+            "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/25/38/19211801.jpg"
+          ],
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/63a14db3-0a2a-3b8d-a6a6-07ae1fb790e2",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/35e3ad1f-7352-3b7a-9cd4-ba5d2cb4400e",
+          "ebucore:title": {
+            "fr": [
+              "L'Idéal - © Gîtes de France Aube (4).JPG"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "City Break L'Idéal - © Gîtes de France Aube"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/115739b0-5a96-3f43-ad21-ab4817eb75b2",
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            },
+            {
+              "@id": "kb:PNG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "PDF-Bild"
+                ],
+                "pt": [
+                  "Imagem PDF"
+                ],
+                "en": [
+                  "PDF image file"
+                ],
+                "it": [
+                  "Immagine PDF"
+                ],
+                "fr": [
+                  "Image PDF"
+                ],
+                "nl": [
+                  "Pdf-afbeelding"
+                ],
+                "es": [
+                  "Imagen PDF"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/png"
+                ],
+                "pt": [
+                  "image/png"
+                ],
+                "en": [
+                  "image/png"
+                ],
+                "it": [
+                  "image/png"
+                ],
+                "fr": [
+                  "image/png"
+                ],
+                "nl": [
+                  "image/png"
+                ],
+                "es": [
+                  "image/png"
+                ]
+              }
+            }
+          ],
+          "ebucore:locator": [
+            "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/28/38/19211804.jpg"
+          ],
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/645e7e0d-3bef-3464-b160-f242fb334fe2",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/e00523a4-9b78-3104-bcb3-445f4f6a765d",
+          "ebucore:title": {
+            "fr": [
+              "L'Idéal - © Gîtes de France Aube (1).JPG"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "City Break L'Idéal - © Gîtes de France Aube"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/c444470c-b5f5-3d0f-89b7-8a7d970b30e6",
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            },
+            {
+              "@id": "kb:PNG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "PDF-Bild"
+                ],
+                "pt": [
+                  "Imagem PDF"
+                ],
+                "en": [
+                  "PDF image file"
+                ],
+                "it": [
+                  "Immagine PDF"
+                ],
+                "fr": [
+                  "Image PDF"
+                ],
+                "nl": [
+                  "Pdf-afbeelding"
+                ],
+                "es": [
+                  "Imagen PDF"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/png"
+                ],
+                "pt": [
+                  "image/png"
+                ],
+                "en": [
+                  "image/png"
+                ],
+                "it": [
+                  "image/png"
+                ],
+                "fr": [
+                  "image/png"
+                ],
+                "nl": [
+                  "image/png"
+                ],
+                "es": [
+                  "image/png"
+                ]
+              }
+            }
+          ],
+          "ebucore:locator": [
+            "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/17/38/19211793.jpg"
+          ],
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/7587ba84-6657-3b0d-b160-0516cd4533c4",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/8a601dda-3922-3645-8f42-506efbcf775d",
+          "ebucore:title": {
+            "fr": [
+              "L'Idéal - © Gîtes de France Aube (2).JPG"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "City Break L'Idéal - © Gîtes de France Aube"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/f9fe8912-d96a-36d0-adbe-0da86dfcb392",
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            },
+            {
+              "@id": "kb:PNG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "PDF-Bild"
+                ],
+                "pt": [
+                  "Imagem PDF"
+                ],
+                "en": [
+                  "PDF image file"
+                ],
+                "it": [
+                  "Immagine PDF"
+                ],
+                "fr": [
+                  "Image PDF"
+                ],
+                "nl": [
+                  "Pdf-afbeelding"
+                ],
+                "es": [
+                  "Imagen PDF"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/png"
+                ],
+                "pt": [
+                  "image/png"
+                ],
+                "en": [
+                  "image/png"
+                ],
+                "it": [
+                  "image/png"
+                ],
+                "fr": [
+                  "image/png"
+                ],
+                "nl": [
+                  "image/png"
+                ],
+                "es": [
+                  "image/png"
+                ]
+              }
+            }
+          ],
+          "ebucore:locator": [
+            "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/30/38/19211806.jpg"
+          ],
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/a06c1550-ba31-3128-8eaf-238e907f8933",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/e8b566d6-87b7-3275-84c4-f08994f20974",
+          "ebucore:title": {
+            "fr": [
+              "L'Idéal - © Gîtes de France Aube (5).JPG"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "City Break L'Idéal - © Gîtes de France Aube"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/70cd8c80-3067-344e-9feb-96697c8883e0",
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            },
+            {
+              "@id": "kb:PNG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "PDF-Bild"
+                ],
+                "pt": [
+                  "Imagem PDF"
+                ],
+                "en": [
+                  "PDF image file"
+                ],
+                "it": [
+                  "Immagine PDF"
+                ],
+                "fr": [
+                  "Image PDF"
+                ],
+                "nl": [
+                  "Pdf-afbeelding"
+                ],
+                "es": [
+                  "Imagen PDF"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/png"
+                ],
+                "pt": [
+                  "image/png"
+                ],
+                "en": [
+                  "image/png"
+                ],
+                "it": [
+                  "image/png"
+                ],
+                "fr": [
+                  "image/png"
+                ],
+                "nl": [
+                  "image/png"
+                ],
+                "es": [
+                  "image/png"
+                ]
+              }
+            }
+          ],
+          "ebucore:locator": [
+            "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/27/38/19211803.jpg"
+          ],
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b89851e3-779c-31cd-a38b-502ff4113168",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/1fd15d20-2113-3911-b7c3-7e23505b3d60",
+          "ebucore:title": {
+            "fr": [
+              "L'Idéal - © Gîtes de France Aube (14).JPG"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "City Break L'Idéal - © Gîtes de France Aube"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/8d1a7cb8-d561-3fa7-aca7-1ca48879f22d",
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            },
+            {
+              "@id": "kb:PNG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "PDF-Bild"
+                ],
+                "pt": [
+                  "Imagem PDF"
+                ],
+                "en": [
+                  "PDF image file"
+                ],
+                "it": [
+                  "Immagine PDF"
+                ],
+                "fr": [
+                  "Image PDF"
+                ],
+                "nl": [
+                  "Pdf-afbeelding"
+                ],
+                "es": [
+                  "Imagen PDF"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/png"
+                ],
+                "pt": [
+                  "image/png"
+                ],
+                "en": [
+                  "image/png"
+                ],
+                "it": [
+                  "image/png"
+                ],
+                "fr": [
+                  "image/png"
+                ],
+                "nl": [
+                  "image/png"
+                ],
+                "es": [
+                  "image/png"
+                ]
+              }
+            }
+          ],
+          "ebucore:locator": [
+            "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/18/38/19211794.jpg"
+          ],
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b9ae8fd5-d5d4-34ad-9053-502b06b08bb4",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/14b7e21c-b61b-3054-b7c8-7bb26e6124f3",
+          "ebucore:title": {
+            "fr": [
+              "L'Idéal - © Gîtes de France Aube (8).JPG"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "City Break L'Idéal - © Gîtes de France Aube"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/32aa3fe9-6c72-3362-9beb-5f9fd2456d41",
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            },
+            {
+              "@id": "kb:PNG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "PDF-Bild"
+                ],
+                "pt": [
+                  "Imagem PDF"
+                ],
+                "en": [
+                  "PDF image file"
+                ],
+                "it": [
+                  "Immagine PDF"
+                ],
+                "fr": [
+                  "Image PDF"
+                ],
+                "nl": [
+                  "Pdf-afbeelding"
+                ],
+                "es": [
+                  "Imagen PDF"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/png"
+                ],
+                "pt": [
+                  "image/png"
+                ],
+                "en": [
+                  "image/png"
+                ],
+                "it": [
+                  "image/png"
+                ],
+                "fr": [
+                  "image/png"
+                ],
+                "nl": [
+                  "image/png"
+                ],
+                "es": [
+                  "image/png"
+                ]
+              }
+            }
+          ],
+          "ebucore:locator": [
+            "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/24/38/19211800.jpg"
+          ],
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/bceafb6b-6af2-3b8e-bed5-b364f0310497",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/3ba2a23e-1cc2-3bb4-98a1-8dc587587d55",
+          "ebucore:title": {
+            "fr": [
+              "L'Idéal - © Gîtes de France Aube (9).JPG"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "City Break L'Idéal - © Gîtes de France Aube"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/0d8da236-c32a-3e23-87e8-a9e767c916cb",
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            },
+            {
+              "@id": "kb:PNG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "PDF-Bild"
+                ],
+                "pt": [
+                  "Imagem PDF"
+                ],
+                "en": [
+                  "PDF image file"
+                ],
+                "it": [
+                  "Immagine PDF"
+                ],
+                "fr": [
+                  "Image PDF"
+                ],
+                "nl": [
+                  "Pdf-afbeelding"
+                ],
+                "es": [
+                  "Imagen PDF"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/png"
+                ],
+                "pt": [
+                  "image/png"
+                ],
+                "en": [
+                  "image/png"
+                ],
+                "it": [
+                  "image/png"
+                ],
+                "fr": [
+                  "image/png"
+                ],
+                "nl": [
+                  "image/png"
+                ],
+                "es": [
+                  "image/png"
+                ]
+              }
+            }
+          ],
+          "ebucore:locator": [
+            "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/23/38/19211799.jpg"
+          ],
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/c7bd611a-afcf-31f2-9bd4-9dba0ae09926",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/f97c4471-5047-33a6-8c55-2452e52f7f17",
+          "ebucore:title": {
+            "fr": [
+              "L'Idéal - © Gîtes de France Aube (3).JPG"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "City Break L'Idéal - © Gîtes de France Aube"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/5b67f2a3-560e-39aa-bfb5-998740681cd9",
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            },
+            {
+              "@id": "kb:PNG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "PDF-Bild"
+                ],
+                "pt": [
+                  "Imagem PDF"
+                ],
+                "en": [
+                  "PDF image file"
+                ],
+                "it": [
+                  "Immagine PDF"
+                ],
+                "fr": [
+                  "Image PDF"
+                ],
+                "nl": [
+                  "Pdf-afbeelding"
+                ],
+                "es": [
+                  "Imagen PDF"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/png"
+                ],
+                "pt": [
+                  "image/png"
+                ],
+                "en": [
+                  "image/png"
+                ],
+                "it": [
+                  "image/png"
+                ],
+                "fr": [
+                  "image/png"
+                ],
+                "nl": [
+                  "image/png"
+                ],
+                "es": [
+                  "image/png"
+                ]
+              }
+            }
+          ],
+          "ebucore:locator": [
+            "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/29/38/19211805.jpg"
+          ],
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ecbb1d94-bc6b-323e-bb3e-3f413b6d307d",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/50140f83-697a-32a6-b10f-a76a2929b38f",
+          "ebucore:title": {
+            "fr": [
+              "L'Idéal - © Gîtes de France Aube (13).JPG"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "City Break L'Idéal - © Gîtes de France Aube"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/350960cd-f8e6-3b9f-9d04-7e19c2ca5018",
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            },
+            {
+              "@id": "kb:PNG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "PDF-Bild"
+                ],
+                "pt": [
+                  "Imagem PDF"
+                ],
+                "en": [
+                  "PDF image file"
+                ],
+                "it": [
+                  "Immagine PDF"
+                ],
+                "fr": [
+                  "Image PDF"
+                ],
+                "nl": [
+                  "Pdf-afbeelding"
+                ],
+                "es": [
+                  "Imagen PDF"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/png"
+                ],
+                "pt": [
+                  "image/png"
+                ],
+                "en": [
+                  "image/png"
+                ],
+                "it": [
+                  "image/png"
+                ],
+                "fr": [
+                  "image/png"
+                ],
+                "nl": [
+                  "image/png"
+                ],
+                "es": [
+                  "image/png"
+                ]
+              }
+            }
+          ],
+          "ebucore:locator": [
+            "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/19/38/19211795.jpg"
+          ],
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasReview": [
+    {
+      "@id": "https://data.datatourisme.fr/55b939bd-a411-3618-8f73-77921a0e60a6",
+      "@type": [
+        "Review"
+      ],
+      "hasReviewValue": {
+        "@id": "kb:ScaleRating_2etoiles",
+        "schema:ratingValue": "2.0",
+        "@type": [
+          "ScaleRating"
+        ],
+        "rdfs:label": {
+          "de": [
+            "2 Sterne"
+          ],
+          "pt": [
+            "2 estrelas"
+          ],
+          "en": [
+            "2 Stars"
+          ],
+          "it": [
+            "2 stelle"
+          ],
+          "fr": [
+            "2 étoiles"
+          ],
+          "nl": [
+            "2 sterren"
+          ],
+          "es": [
+            "2 estrellas"
+          ]
+        },
+        "isCompliantWith": [
+          "CampingAndCaravanning",
+          "ClubOrHolidayVillage",
+          "HolidayCentre",
+          "Hotel",
+          "SelfCateringAccommodation"
+        ]
+      }
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f8884d70-4a02-376b-a0b0-3171c508b279",
+      "@type": [
+        "Review"
+      ],
+      "hasReviewValue": {
+        "@id": "kb:LabelRating_GitesDeFrance",
+        "@type": [
+          "LabelRating"
+        ],
+        "rdfs:label": {
+          "de": [
+            "Gîtes de France"
+          ],
+          "pt": [
+            "Gîtes de France"
+          ],
+          "en": [
+            "Gîtes de France"
+          ],
+          "it": [
+            "Gîtes de France"
+          ],
+          "fr": [
+            "Gîtes de France"
+          ],
+          "nl": [
+            "Gîtes de France"
+          ],
+          "es": [
+            "Gîtes de France"
+          ]
+        },
+        "isCompliantWith": [
+          "Guesthouse",
+          "SelfCateringAccommodation"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/d23b43dd-b2e9-359f-a243-8f2818fcfb38",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/5e2977ff-97e3-3314-8b05-5b4323df37d9",
+          "schema:addressLocality": "Sainte-Savine",
+          "schema:postalCode": "10300",
+          "schema:streetAddress": [
+            "11 rue des Noës"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:10362",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Sainte-Savine"
+              ],
+              "pt": [
+                "Sainte-Savine"
+              ],
+              "en": [
+                "Sainte-Savine"
+              ],
+              "it": [
+                "Sainte-Savine"
+              ],
+              "fr": [
+                "Sainte-Savine"
+              ],
+              "nl": [
+                "Sainte-Savine"
+              ],
+              "es": [
+                "Sainte-Savine"
+              ]
+            },
+            "insee": "10362",
+            "isPartOfDepartment": {
+              "@id": "kb:France4410",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Aube"
+                ],
+                "pt": [
+                  "Aube"
+                ],
+                "en": [
+                  "Aube"
+                ],
+                "it": [
+                  "Aube"
+                ],
+                "fr": [
+                  "Aube"
+                ],
+                "nl": [
+                  "Aube"
+                ],
+                "es": [
+                  "Aube"
+                ]
+              },
+              "insee": "10",
+              "isPartOfRegion": {
+                "@id": "kb:France44",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Grand Est"
+                  ],
+                  "pt": [
+                    "Grand Est"
+                  ],
+                  "en": [
+                    "Grand Est"
+                  ],
+                  "it": [
+                    "Grand Est"
+                  ],
+                  "fr": [
+                    "Grand Est"
+                  ],
+                  "nl": [
+                    "Grand Est"
+                  ],
+                  "es": [
+                    "Grand Est"
+                  ]
+                },
+                "insee": "44",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/6551fe53-f5af-37f1-b72d-1964c3e8ad0e",
+        "schema:latitude": "48.296811",
+        "schema:longitude": "4.060613",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/97e34e97-de04-3772-951a-9b7e2dc6939e",
+          "schema:validFrom": "2024-01-01T00:00:00",
+          "schema:validThrough": "2024-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/b8c7104e-b98d-3e98-90b0-b44d7b92e00d",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/5e2977ff-97e3-3314-8b05-5b4323df37d9",
+          "schema:addressLocality": "Sainte-Savine",
+          "schema:postalCode": "10300",
+          "schema:streetAddress": [
+            "11 rue des Noës"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:10362",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Sainte-Savine"
+              ],
+              "pt": [
+                "Sainte-Savine"
+              ],
+              "en": [
+                "Sainte-Savine"
+              ],
+              "it": [
+                "Sainte-Savine"
+              ],
+              "fr": [
+                "Sainte-Savine"
+              ],
+              "nl": [
+                "Sainte-Savine"
+              ],
+              "es": [
+                "Sainte-Savine"
+              ]
+            },
+            "insee": "10362",
+            "isPartOfDepartment": {
+              "@id": "kb:France4410",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Aube"
+                ],
+                "pt": [
+                  "Aube"
+                ],
+                "en": [
+                  "Aube"
+                ],
+                "it": [
+                  "Aube"
+                ],
+                "fr": [
+                  "Aube"
+                ],
+                "nl": [
+                  "Aube"
+                ],
+                "es": [
+                  "Aube"
+                ]
+              },
+              "insee": "10",
+              "isPartOfRegion": {
+                "@id": "kb:France44",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Grand Est"
+                  ],
+                  "pt": [
+                    "Grand Est"
+                  ],
+                  "en": [
+                    "Grand Est"
+                  ],
+                  "it": [
+                    "Grand Est"
+                  ],
+                  "fr": [
+                    "Grand Est"
+                  ],
+                  "nl": [
+                    "Grand Est"
+                  ],
+                  "es": [
+                    "Grand Est"
+                  ]
+                },
+                "insee": "44",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:legalName": "L'Idéal",
+      "schema:telephone": [
+        "+33 3 25 81 83 05"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.gites-de-france-aube.com/location-vacances-City-break-a-Sainte-savine-10G490.html"
+      ]
+    }
+  ],
+  "lastUpdate": "2024-01-10",
+  "lastUpdateDatatourisme": "2024-03-11T09:26:15.141Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/1ca568e7-5fc3-3e89-9d57-718fd79b3a36",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/4a5ece9e-bc00-3d1c-953f-65f84ae5941c",
+          "schema:maxPrice": [
+            "0.7"
+          ],
+          "schema:minPrice": [
+            "0.7"
+          ],
+          "schema:priceCurrency": "Eur",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/31f5d72b-a58c-3b74-a324-625d6ba3a28e",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2024-12-31",
+              "startDate": "2024-01-01"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d20a67b8-dc60-3a0e-a1f9-526d9c84fc33",
+          "schema:maxPrice": [
+            "51"
+          ],
+          "schema:minPrice": [
+            "51"
+          ],
+          "schema:priceCurrency": "Eur",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/31f5d72b-a58c-3b74-a324-625d6ba3a28e",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2024-12-31",
+              "startDate": "2024-01-01"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d71cae95-902a-3d4c-9b7d-841475de669a",
+          "schema:maxPrice": [
+            "5"
+          ],
+          "schema:minPrice": [
+            "5"
+          ],
+          "schema:priceCurrency": "Eur",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/31f5d72b-a58c-3b74-a324-625d6ba3a28e",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2024-12-31",
+              "startDate": "2024-01-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

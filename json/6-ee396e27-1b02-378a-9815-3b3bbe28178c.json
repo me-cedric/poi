@@ -1,0 +1,744 @@
+{
+  "@id": "https://data.datatourisme.fr/6/ee396e27-1b02-378a-9815-3b3bbe28178c",
+  "dc:identifier": "HLOBOU000V50QZCN",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "schema:Product",
+    "Accommodation",
+    "AccommodationProduct",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "Product",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Les Grenouilles"
+    ]
+  },
+  "allowedPersons": 8,
+  "creationDate": "2022-10-10",
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/6/82578c73-08c7-342e-8845-dc63b20d54a8",
+    "dc:identifier": "6012fdba-d499-4734-b015-373e96f99808",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/e99ac672-829e-378b-b0ce-756c7c7c76b1",
+        "schema:postalCode": "71000",
+        "schema:streetAddress": [
+          "Maison de la Saône-et-Loire"
+        ],
+        "@type": [
+          "schema:PostalAddress"
+        ]
+      }
+    ],
+    "schema:email": [
+      "missiontourisme@saoneetloire71.fr"
+    ],
+    "schema:legalName": "Mission Tourisme - Département 71",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://route71.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ed8f54f8-9a7d-3090-b1d2-e7ab87891e64",
+      "schema:email": [
+        "m.boularess@bfctourisme.com"
+      ],
+      "schema:legalName": "Bourgogne-Franche-Comté Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.bourgognefranchecomte.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/71198d1a-2c0d-34fa-9f7a-2cee346f47c5",
+      "schema:email": [
+        "info@gites71.com"
+      ],
+      "schema:telephone": [
+        "+33 3 85 29 55 60"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://webitea-71-v4-francais.gl.itea.fr/resa/etape1.php?NUM=3121&INSTANCE=gites71&OPE=CRTBOURG&ORI=CRTBOURG&&&&&"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/71198d1a-2c0d-34fa-9f7a-2cee346f47c5",
+      "schema:email": [
+        "info@gites71.com"
+      ],
+      "schema:telephone": [
+        "+33 3 85 29 55 60"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://webitea-71-v4-francais.gl.itea.fr/resa/etape1.php?NUM=3121&INSTANCE=gites71&OPE=CRTBOURG&ORI=CRTBOURG&&&&&"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/dd9c33f6-eafb-3cf6-a1fa-2f497a4d786d",
+      "dc:description": {
+        "de": [
+          "Raphaëlle empfängt Sie in einem geschichtsträchtigen und sorgfältig restaurierten authentischen Stall aus dem 15. Jahrhundert, der sich in ruhiger Lage auf einem 10 ha großen Familienbesitz befindet (früher ein \"befestigter Ort\" mit einer Burg, ein historisches Anwesen, von dem noch ein eleganter und abwechslungsreicher Wachturm erhalten ist), der aus mehreren Gebäuden besteht, die alle perfekt renoviert wurden und sternförmig um einen großen Innenhof angeordnet sind. Völlige Ruhe auf dem Land, im Herzen eines kleinen ländlichen Weilers, der sich in die bukolische Bocage Charolais schmiegt, auf einem großen \"offenen\" Plateau mit Weiden und Wiesen (mit den berühmten \"lokalen\" Kühen als friedlichen Nachbarn), nur wenige Schritte von einem schönen, geschützten Wald entfernt. Unterkunft mit sehr gutem Komfort. Sehr geräumig. Seltener großer Wohnraum (80m²), der durch ungewöhnliche Originaldecken aus gewölbten Ziegeln (\"voûtins\") hervorgehoben wird. Warme ländliche Atmosphäre im Sinne eines sanften \"Familienhauses\". Viel Charme und Charakter. Sehr vollständige Ausstattung (insbesondere für Kinder). Angenehmer Garten mit einem herrlichen Blick auf die umliegende Landschaft, ohne Gegenüber, mit einem atypischen und sehr schönen Naturschwimmbad (8x4m). Sie profitieren außerdem von einem Bouleplatz und einem Obstgarten, in dem Sie während Ihres Aufenthalts frische Bio-Früchte genießen können (Apfel-, Birnen-, Feigenbäume usw.). Zusammensetzung: Einfamilienhaus neben einer zweiten Unterkunft (völlige Unabhängigkeit). Wifi. Ölzentralheizung + Kamin (Feuer nur zum Vergnügen). Erdgeschoss: Wohnzimmer, Küche, Wohnzimmer, Waschküche, separates WC. 1. Stock: 4 Schlafzimmer (2 Einzelbetten 90x190cm in jedem), davon 2 mit eigenem Bad/WC (eines mit Badewanne / eines mit Dusche), Badezimmer (Badewanne), separates WC. Gemeinsames Grundstück (3000m²) mit Hof, Naturschwimmbad (8x4m), Bouleplatz, geräumigem Carport (kein zugewiesener Platz) & geschlossener Hundezwinger. Hunde auf der \"Poolseite\" nicht erlaubt. Privater Parkplatz. Abstellraum für Fahrräder. Alle Annehmlichkeiten."
+        ],
+        "en": [
+          "Raphaëlle welcomes you to a delightful, authentic 15th-century cowshed, steeped in history & meticulously restored, set in the peace and quiet of a vast 10-hectare family estate (once a \"place forte\" with a fortified castle, a historic estate of which an elegant & exotic watchtower remains) made up of several buildings, all perfectly renovated, nestled in a star formation around a large inner courtyard. Total tranquility in the countryside, in the heart of a mini rural hamlet nestled in the bucolic Charolais bocage, on a vast \"open\" plateau of pastures & meadows (with the famous \"local\" cows as peaceful neighbors), a stone's throw from a beautiful unspoilt forest. Very comfortable gîte. Ultra spacious. Vast, rare 80m² living room enhanced by unusual original vaulted brick ceilings (\"voûtins\"). Warm country charm in the spirit of a gentle \"family home\". Lots of charm and character. Fully equipped (especially for children). Pleasant garden with unobstructed views over the surrounding countryside, featuring an atypical & beautiful natural swimming pool (8x4m). There's also a pétanque court and an orchard for the pleasure of fresh, organic fruit during your stay (apple, pear, fig, etc.). Composition : Detached house adjoining a second gîte (total independence). Wifi connection. Oil-fired central heating + fireplace (pleasure fire only). Ground floor: living room-kitchen, laundry room, separate toilet. 1st floor: 4 bedrooms (each with 2 single beds 90x190cm), 2 with private bath/WC (one with bathtub / one with shower), bathroom (bathtub), separate WC. Shared grounds with gîtes (3000m²) including courtyard, natural swimming pool (8x4m), pétanque court, spacious carport (no space allocated) & enclosed kennels for dogs. Dogs not allowed \"pool side\". Private parking. Bike room. All amenities."
+        ],
+        "it": [
+          "Raphaëlle vi dà il benvenuto in una deliziosa e autentica stalla del XV secolo, ricca di storia e meticolosamente restaurata, immersa nella pace e nella tranquillità di una vasta tenuta familiare di 10 ettari (un tempo \"roccaforte\" con castello, una tenuta storica di cui rimane un'elegante ed esotica torre di guardia) composta da diversi edifici, tutti perfettamente ristrutturati, disposti a stella intorno a un grande cortile interno. Completa pace e tranquillità in campagna, nel cuore di un mini borgo rurale immerso nel bucolico bocage dello Charolais, su un vasto altopiano \"aperto\" di pascoli e prati (con le famose mucche \"locali\" come pacifici vicini), a due passi da una bella foresta incontaminata. Alloggio molto confortevole. Molto spaziosa. Vasto soggiorno di 80 m², molto raro, impreziosito da insoliti soffitti originali a volta in mattoni (\"voûtins\"). Calda atmosfera di campagna nello spirito di un'accogliente \"casa di famiglia\". Molto fascino e carattere. Completamente attrezzata (soprattutto per i bambini). Piacevole giardino con magnifica vista senza ostacoli sulla campagna circostante, senza affacci, con una piscina naturale atipica e molto bella (8x4m). C'è anche un'area per le bocce e un frutteto dove potrete gustare frutta fresca e biologica (mele, pere, fichi, ecc.) durante il vostro soggiorno. Composizione: Casa indipendente annessa a un secondo gîte (indipendenza totale). Connessione wifi. Riscaldamento centrale a gasolio + camino (solo fuoco di piacere). Piano terra: soggiorno/cucina/salotto, ripostiglio, WC separato. 1° piano: 4 camere da letto (2 letti singoli 90x190 cm in ciascuna), di cui 2 con bagno/WC privato (uno con vasca/uno con doccia), bagno (vasca), WC separato. Terreno in comune con le gîtes (3000m²) con cortile, piscina naturale (8x4m), campo da bocce, ampio carport (spazio non assegnato) e canile recintato per cani. I cani non sono ammessi \"a bordo piscina\". Parcheggio privato. Capannone per biciclette. Tutti i servizi."
+        ],
+        "fr": [
+          "Raphaëlle vous accueille au sein d'une ravissante authentique étable de caractère du XVème siècle, chargée d'histoire & soigneusement restaurée, sise au calme sur une vaste propriété familiale de 10 ha (jadis \"place forte\" avec château fort, domaine historique dont subsiste une élégante & dépaysante tour de garde) composée de plusieurs bâtiments, tous parfaitement rénovés, nichés en étoile autour d'une grande cour intérieure. Totale tranquillité en pleine campagne, au cœur d'un mini hameau rural blotti au creux du bucolique bocage charolais, sur un vaste plateau \"ouvert\" de pâtures & prairies (avec les célèbres vaches \"locales\" en guise de paisibles voisines), à deux pas d'une belle forêt préservée. Gîte de très bon confort. Ultra spacieux. Vaste très rare pièce de vie 80m² sublimée par d'insolites plafonds originels en briques voûtées (\"voûtins\"). Chaleureux cachet campagnard dans l'esprit d'une douce \"maison de famille\". Beaucoup de charme et de caractère. Equipement très complet (notamment pour les enfants). Agréable jardin offrant une magnifique vue dégagée sur la campagne environnante, sans aucun vis-à-vis, doté d'une atypique & très belle piscine naturelle (8x4m). Vous profitez également d'un terrain de pétanque & d'un verger pour le plaisir de fruits frais & \"bio\" durant votre séjour (pommiers, poiriers, figuiers etc…). Composition : Maison individuelle voisinant un second gîte (indépendance totale). Wifi. Chauffage central fioul + cheminée (feu plaisir d'agrément seulement). Rdc : séjour-cuisine-salon, buanderie, Wc indépendant. 1er étage : 4 chambres (2 lits 1 p. 90x190cm dans chacune) dont 2 avec salle de bain/Wc privatifs (une avec baignoire / une avec douche), salle de bain (baignoire), Wc indépendant. Terrain en commun aux gîtes (3000m²) dont cour, piscine naturelle (8x4m), terrain de pétanque, spacieux abri voitures (sans place attribuée) & chenil clos pour les chiens. Chiens non autorisés \"côté piscine\". Parking privé. Local vélos. Toutes commodités."
+        ],
+        "es": [
+          "Raphaëlle le da la bienvenida a un encantador y auténtico establo del siglo XV, cargado de historia y meticulosamente restaurado, situado en la tranquilidad de una vasta finca familiar de 10 hectáreas (antaño una \"fortaleza\" con castillo, una finca histórica de la que se conserva una elegante y exótica torre de vigilancia) compuesta por varios edificios, todos ellos perfectamente renovados, que se agrupan en forma de estrella alrededor de un gran patio interior. Tranquilidad absoluta en plena naturaleza, en el corazón de una pequeña aldea rural enclavada en el bucólico bocage charoles, en una vasta meseta \"abierta\" de pastos y prados (con las famosas vacas \"locales\" como pacíficas vecinas), a dos pasos de un hermoso bosque virgen. Casa rural muy confortable. Muy espaciosa. Gran sala de estar de 80 m², muy original, realzada por techos abovedados originales de ladrillo (\"voûtins\"). Cálido ambiente campestre en el espíritu de una acogedora \"casa de familia\". Mucho encanto y carácter. Totalmente equipado (especialmente para los niños). Agradable jardín con magníficas vistas despejadas sobre la campiña circundante, sin vistas, con una piscina natural atípica y muy bonita (8x4m). También hay una zona de petanca y un huerto donde podrá disfrutar de fruta fresca y ecológica (manzana, pera, higo, etc.) durante su estancia. Composición: Casa unifamiliar adosada a una segunda casa rural (independencia total). Conexión Wifi. Calefacción central de gasoil + chimenea (sólo fuego de placer). Planta baja: salón/cocina/sala de estar, lavadero, WC separado. 1er piso: 4 habitaciones (2 camas individuales 90x190cm cada una), 2 de ellas con cuarto de baño/WC privado (una con bañera/una con ducha), cuarto de baño (bañera), WC separado. Terreno compartido con las casas rurales (3000m²) que incluye patio, piscina natural (8x4m), zona de petanca, amplia cochera (sin espacio asignado) y perreras cerradas para perros. No se admiten perros junto a la piscina. Aparcamiento privado. Cobertizo para bicicletas. Todas las comodidades."
+        ],
+        "nl": [
+          "Raphaëlle heet u welkom in een prachtige, authentieke koeienstal uit de 15e eeuw, vol geschiedenis en zorgvuldig gerestaureerd, gelegen in de rust van een uitgestrekt familiedomein van 10 hectare (ooit een 'bolwerk' met een kasteel, een historisch landgoed waarvan een elegante en exotische wachttoren is overgebleven) bestaande uit verschillende gebouwen, allemaal perfect gerenoveerd, genesteld in een stervorm rond een grote binnenplaats. Volledige rust en stilte op het platteland, in het hart van een klein landelijk gehucht genesteld in de bucolische Charolais bocage, op een uitgestrekt \"open\" plateau van weiden en grasland (met de beroemde \"lokale\" koeien als vreedzame buren), op een steenworp afstand van een prachtig ongerept bos. Zeer comfortabele gîte. Zeer ruim. Grote, zeer zeldzame woonkamer van 80m², versterkt door ongewone originele gewelfde plafonds in baksteen (\"voûtins\"). Warme landelijke sfeer in de geest van een gezellig \"familiehuis\". Veel charme en karakter. Volledig uitgerust (speciaal voor kinderen). Aangename tuin met prachtig vrij uitzicht over het omliggende platteland, zonder inkijk, met een atypisch & zeer mooi natuurlijk zwembad (8x4m). Er is ook een petanqueterrein en een boomgaard waar je tijdens je verblijf kunt genieten van vers, biologisch fruit (appel, peer, vijg, enz.). Indeling: Vrijstaand huis grenzend aan een tweede gîte (totale onafhankelijkheid). Wifi aansluiting. Centrale verwarming op stookolie + open haard (alleen pleziervuur). Begane grond: woonkamer/keuken/salon, bijkeuken, apart toilet. 1ste verdieping: 4 slaapkamers (2 eenpersoonsbedden van 90x190cm elk), waarvan 2 met eigen badkamer/toilet (een met bad/een met douche), badkamer (bad), aparte WC. Gemeenschappelijk terrein met de gîtes (3000m²) met binnenplaats, natuurlijk zwembad (8x4m), petanqueterrein, ruime carport (geen plaats toegewezen) & omheinde kennels voor honden. Honden niet toegelaten aan de rand van het zwembad. Privé parkeerplaats. Fietsenstalling. Alle voorzieningen."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/14938ab7-4df6-3348-93a5-077c6b071f6a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/3b53a9d3-b39f-3c70-8f40-e2a2f3c9a6f6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/414a4a97-c3ea-390a-9876-74aaeeb843b7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/883e818b-bd15-3bf8-9a40-db30a8a02434",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b0a0585b-adc0-310b-980d-ebe0c38cf6e4",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasFeature": [
+    {
+      "@id": "https://data.datatourisme.fr/1e4a7879-5a05-3242-85c9-681f68dda809",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:Accommodation",
+          "@type": [
+            "AccommodationAmenity",
+            "AccommodationPricingOffer"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Unterbringung"
+            ],
+            "pt": [
+              "Alojamento"
+            ],
+            "en": [
+              "Accommodation"
+            ],
+            "it": [
+              "Alloggio"
+            ],
+            "fr": [
+              "Logement"
+            ],
+            "nl": [
+              "Logies"
+            ],
+            "es": [
+              "Alojamiento"
+            ]
+          }
+        }
+      ],
+      "hasFloorSize": {
+        "@id": "https://data.datatourisme.fr/f6d0e258-d74d-3cd7-9258-19f18a615b6f",
+        "schema:unitText": [
+          "m²"
+        ],
+        "schema:value": "180",
+        "@type": [
+          "schema:QuantitativeValue"
+        ]
+      }
+    },
+    {
+      "@id": "https://data.datatourisme.fr/39622c81-d525-36fd-b9d2-75d9a2412ac8",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:Wifi",
+          "@type": [
+            "CommonAmenity"
+          ],
+          "rdfs:label": {
+            "de": [
+              "WLAN, Internetzugang"
+            ],
+            "pt": [
+              "Wi-Fi, acesso Internet"
+            ],
+            "en": [
+              "Wifi, internet access"
+            ],
+            "it": [
+              "Wifi, accesso a internet"
+            ],
+            "fr": [
+              "Wifi, accès internet"
+            ],
+            "nl": [
+              "Wifi, internettoegang"
+            ],
+            "es": [
+              "Wifi, acceso a internet"
+            ]
+          }
+        }
+      ],
+      "hasFloorSize": {
+        "@id": "https://data.datatourisme.fr/594bee9e-fea2-3a91-a1bf-d15acea9e590",
+        "schema:unitText": [
+          "m²"
+        ],
+        "@type": [
+          "schema:QuantitativeValue"
+        ]
+      }
+    },
+    {
+      "@id": "https://data.datatourisme.fr/4f533e68-e395-38ec-84c8-63df3537c904",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:SwimmingPool",
+          "@type": [
+            "CommonAmenity"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Pool"
+            ],
+            "pt": [
+              "Piscina"
+            ],
+            "en": [
+              "Swimming pool"
+            ],
+            "it": [
+              "Piscina"
+            ],
+            "fr": [
+              "Piscine"
+            ],
+            "nl": [
+              "Zwembad"
+            ],
+            "es": [
+              "Piscina"
+            ]
+          }
+        }
+      ],
+      "hasFloorSize": {
+        "@id": "https://data.datatourisme.fr/594bee9e-fea2-3a91-a1bf-d15acea9e590",
+        "schema:unitText": [
+          "m²"
+        ],
+        "@type": [
+          "schema:QuantitativeValue"
+        ]
+      }
+    },
+    {
+      "@id": "https://data.datatourisme.fr/60881a78-15b5-3640-8883-24551dd98000",
+      "schema:value": "4",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:Bedroom",
+          "@type": [
+            "AccommodationAmenity",
+            "AccommodationPricingOffer"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Zimmer"
+            ],
+            "pt": [
+              "Quarto"
+            ],
+            "en": [
+              "Bedroom"
+            ],
+            "it": [
+              "Camera"
+            ],
+            "fr": [
+              "Chambre"
+            ],
+            "nl": [
+              "Kamer"
+            ],
+            "es": [
+              "Habitación"
+            ]
+          }
+        }
+      ],
+      "hasFloorSize": {
+        "@id": "https://data.datatourisme.fr/594bee9e-fea2-3a91-a1bf-d15acea9e590",
+        "schema:unitText": [
+          "m²"
+        ],
+        "@type": [
+          "schema:QuantitativeValue"
+        ]
+      }
+    },
+    {
+      "@id": "https://data.datatourisme.fr/8fcb0e73-e6cb-328e-8238-d0a08c9a5036",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:Dishwasher",
+          "@type": [
+            "AccommodationAmenity"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Geschirrspülmaschine"
+            ],
+            "pt": [
+              "Máquina de lavar louça"
+            ],
+            "en": [
+              "Dishwasher"
+            ],
+            "it": [
+              "Lavastoviglie"
+            ],
+            "fr": [
+              "Lave vaisselle"
+            ],
+            "nl": [
+              "Vaatwasmachine"
+            ],
+            "es": [
+              "Lavaplatos"
+            ]
+          }
+        }
+      ],
+      "hasFloorSize": {
+        "@id": "https://data.datatourisme.fr/594bee9e-fea2-3a91-a1bf-d15acea9e590",
+        "schema:unitText": [
+          "m²"
+        ],
+        "@type": [
+          "schema:QuantitativeValue"
+        ]
+      }
+    },
+    {
+      "@id": "https://data.datatourisme.fr/99b233b3-c581-300d-bd3f-9a66cbd975c9",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "hasFloorSize": {
+        "@id": "https://data.datatourisme.fr/594bee9e-fea2-3a91-a1bf-d15acea9e590",
+        "schema:unitText": [
+          "m²"
+        ],
+        "@type": [
+          "schema:QuantitativeValue"
+        ]
+      }
+    },
+    {
+      "@id": "https://data.datatourisme.fr/bfff4488-8625-3579-ae4c-479a61aecaaf",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:Freezer",
+          "@type": [
+            "AccommodationAmenity"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Gefriergerät"
+            ],
+            "pt": [
+              "Congelador"
+            ],
+            "en": [
+              "Freezer"
+            ],
+            "it": [
+              "Congelatore"
+            ],
+            "fr": [
+              "Congélateur"
+            ],
+            "nl": [
+              "Diepvriezer"
+            ],
+            "es": [
+              "Congelador"
+            ]
+          }
+        }
+      ],
+      "hasFloorSize": {
+        "@id": "https://data.datatourisme.fr/594bee9e-fea2-3a91-a1bf-d15acea9e590",
+        "schema:unitText": [
+          "m²"
+        ],
+        "@type": [
+          "schema:QuantitativeValue"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/d640ab29-4cfa-3482-bd46-56ecf503631b",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/50852515-1d14-3ff4-b86c-12be140279e1",
+          "schema:addressLocality": "Saint-Aubin-en-Charollais",
+          "schema:postalCode": "71430",
+          "schema:streetAddress": [
+            "Moulin Chipot"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:71388",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Aubin-en-Charollais"
+              ],
+              "pt": [
+                "Saint-Aubin-en-Charollais"
+              ],
+              "en": [
+                "Saint-Aubin-en-Charollais"
+              ],
+              "it": [
+                "Saint-Aubin-en-Charollais"
+              ],
+              "fr": [
+                "Saint-Aubin-en-Charollais"
+              ],
+              "nl": [
+                "Saint-Aubin-en-Charollais"
+              ],
+              "es": [
+                "Saint-Aubin-en-Charollais"
+              ]
+            },
+            "insee": "71388",
+            "isPartOfDepartment": {
+              "@id": "kb:France2771",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Saône-et-Loire"
+                ],
+                "pt": [
+                  "Saône-et-Loire"
+                ],
+                "en": [
+                  "Saône-et-Loire"
+                ],
+                "it": [
+                  "Saône-et-Loire"
+                ],
+                "fr": [
+                  "Saône-et-Loire"
+                ],
+                "nl": [
+                  "Saône-et-Loire"
+                ],
+                "es": [
+                  "Saône-et-Loire"
+                ]
+              },
+              "insee": "71",
+              "isPartOfRegion": {
+                "@id": "kb:France27",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bourgogne-Franche-Comté"
+                  ],
+                  "pt": [
+                    "Bourgogne-Franche-Comté"
+                  ],
+                  "en": [
+                    "Bourgogne-Franche-Comté"
+                  ],
+                  "it": [
+                    "Bourgogne-Franche-Comté"
+                  ],
+                  "fr": [
+                    "Bourgogne-Franche-Comté"
+                  ],
+                  "nl": [
+                    "Bourgogne-Franche-Comté"
+                  ],
+                  "es": [
+                    "Bourgogne-Franche-Comté"
+                  ]
+                },
+                "insee": "27",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/abd5a605-cd44-3e3e-b0f4-2f40e62ec6ff",
+        "schema:latitude": "46.484127",
+        "schema:longitude": "4.196949",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ff06c202-5387-34f3-8d21-aa2d143149ab",
+      "schema:legalName": "SIT Bourgogne-Franche-Comté",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "lastUpdate": "2024-04-12",
+  "lastUpdateDatatourisme": "2024-04-13T23:36:38.922Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/544257e2-2d59-3f0e-8d8b-e429d849f774",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:BlueCard",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Carte bleue"
+            ],
+            "pt": [
+              "Cartão de pagamento (Carte bleue)"
+            ],
+            "en": [
+              "Blue card"
+            ],
+            "it": [
+              "Carta blu"
+            ],
+            "fr": [
+              "Carte bleue"
+            ],
+            "es": [
+              "Tarjeta bancaria"
+            ],
+            "nl": [
+              "Carte Bleue"
+            ]
+          }
+        },
+        {
+          "@id": "kb:HolidayVouchers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Urlaubsschecks"
+            ],
+            "pt": [
+              "Vales de férias"
+            ],
+            "en": [
+              "Holiday vouchers"
+            ],
+            "it": [
+              "Buoni vacanza"
+            ],
+            "fr": [
+              "Chèques vacances"
+            ],
+            "nl": [
+              "Vakantiecheques"
+            ],
+            "es": [
+              "Cheques de vacaciones"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

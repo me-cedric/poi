@@ -1,0 +1,1313 @@
+{
+  "@id": "https://data.datatourisme.fr/3/a2d9e3ae-0450-3213-9e82-ed67d49aec24",
+  "dc:identifier": "eudonet:31819",
+  "@type": [
+    "Church",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "ReligiousSite"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Eglise Notre-Dame-de-l'Assomption de Radonvilliers"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q29549665"
+  ],
+  "creationDate": "2013-10-30",
+  "hasArchitecturalStyle": [
+    {
+      "@id": "kb:Religion",
+      "@type": [
+        "ArchitecturalStyle",
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Religion"
+        ],
+        "pt": [
+          "Religião"
+        ],
+        "en": [
+          "Religion"
+        ],
+        "it": [
+          "Religione"
+        ],
+        "fr": [
+          "Religion"
+        ],
+        "nl": [
+          "Religie"
+        ],
+        "es": [
+          "Religión"
+        ]
+      }
+    }
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/f2bb1944-a461-3e7f-a43e-e0547b3ab68d",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/af75f80c-5ba1-37fd-a124-bc38938e4cc0",
+        "schema:addressLocality": "Brienne-le-Château",
+        "schema:postalCode": "10500",
+        "schema:streetAddress": [
+          "1 rue Emile Zola"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:10064",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Brienne-le-Château"
+            ],
+            "pt": [
+              "Brienne-le-Château"
+            ],
+            "en": [
+              "Brienne-le-Château"
+            ],
+            "it": [
+              "Brienne-le-Château"
+            ],
+            "fr": [
+              "Brienne-le-Château"
+            ],
+            "nl": [
+              "Brienne-le-Château"
+            ],
+            "es": [
+              "Brienne-le-Château"
+            ]
+          },
+          "insee": "10064",
+          "isPartOfDepartment": {
+            "@id": "kb:France4410",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Aube"
+              ],
+              "pt": [
+                "Aube"
+              ],
+              "en": [
+                "Aube"
+              ],
+              "it": [
+                "Aube"
+              ],
+              "fr": [
+                "Aube"
+              ],
+              "nl": [
+                "Aube"
+              ],
+              "es": [
+                "Aube"
+              ]
+            },
+            "insee": "10",
+            "isPartOfRegion": {
+              "@id": "kb:France44",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Grand Est"
+                ],
+                "pt": [
+                  "Grand Est"
+                ],
+                "en": [
+                  "Grand Est"
+                ],
+                "it": [
+                  "Grand Est"
+                ],
+                "fr": [
+                  "Grand Est"
+                ],
+                "nl": [
+                  "Grand Est"
+                ],
+                "es": [
+                  "Grand Est"
+                ]
+              },
+              "insee": "44",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "accueil@grandslacsdechampagne.fr"
+    ],
+    "schema:legalName": "Office de Tourisme des Grands Lacs de Champagne",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://grandslacsdechampagne.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/6c960dda-efb7-39b8-9229-7e88e3a297e4",
+      "schema:email": [
+        "bonjour@aube-champagne.com"
+      ],
+      "schema:legalName": "Aube en Champagne Tourisme",
+      "schema:telephone": [
+        "+33 3 25 42 50 00"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.aube-champagne.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/6b463cd2-41ce-3083-a02a-1580419065c5",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/697f9adf-caf8-3bb3-b6e4-07899da6c177",
+          "schema:addressLocality": "Radonvilliers",
+          "schema:postalCode": "10500",
+          "schema:streetAddress": [
+            "Rue de l'Église"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:10313",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Radonvilliers"
+              ],
+              "pt": [
+                "Radonvilliers"
+              ],
+              "en": [
+                "Radonvilliers"
+              ],
+              "it": [
+                "Radonvilliers"
+              ],
+              "fr": [
+                "Radonvilliers"
+              ],
+              "nl": [
+                "Radonvilliers"
+              ],
+              "es": [
+                "Radonvilliers"
+              ]
+            },
+            "insee": "10313",
+            "isPartOfDepartment": {
+              "@id": "kb:France4410",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Aube"
+                ],
+                "pt": [
+                  "Aube"
+                ],
+                "en": [
+                  "Aube"
+                ],
+                "it": [
+                  "Aube"
+                ],
+                "fr": [
+                  "Aube"
+                ],
+                "nl": [
+                  "Aube"
+                ],
+                "es": [
+                  "Aube"
+                ]
+              },
+              "insee": "10",
+              "isPartOfRegion": {
+                "@id": "kb:France44",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Grand Est"
+                  ],
+                  "pt": [
+                    "Grand Est"
+                  ],
+                  "en": [
+                    "Grand Est"
+                  ],
+                  "it": [
+                    "Grand Est"
+                  ],
+                  "fr": [
+                    "Grand Est"
+                  ],
+                  "nl": [
+                    "Grand Est"
+                  ],
+                  "es": [
+                    "Grand Est"
+                  ]
+                },
+                "insee": "44",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:email": [
+        "mairie.radonvilliers@orange.fr"
+      ],
+      "schema:legalName": "Eglise Notre-Dame-de-l'Assomption de Radonvilliers",
+      "schema:telephone": [
+        "+33 3 25 92 21 34"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/7cc34339-b62d-3574-86ec-d4dcbf8c4f84",
+      "dc:description": {
+        "de": [
+          "Jahrhundert ist das einzige Gebäude in der Region, das sowohl die romanischen als auch die gotischen Elemente bewahrt hat. Jahrhundert um ein Schiff mit drei Jochen erweitert, das von nördlichen Kapellen aus dem 17. Jahrhundert und einem südlichen Seitenschiff aus dem 16.\n\nDie Kirche beherbergt mehrere Stücke, die unter Denkmalschutz stehen. Jahrhundert, ein Fenster mit dem Wappen der Champagne, ein Pult mit einem Adler aus dem 17. Jahrhundert am Chor, ein gusseisernes Weihwasserbecken aus dem 16.\n\nIm Laufe der Zeit wurden zahlreiche Arbeiten durchgeführt, darunter die Renovierung des Herz-Jesu-Altars, der Gewölbe mit gebrochener Tonne, von denen ein Teil 1984 eingestürzt war, die Restaurierung der drei Altäre und die Neugestaltung des Daches."
+        ],
+        "en": [
+          "This 11th-century building is the only one in the region to have preserved all its Romanesque and Gothic features. It was embellished in the 16th century with a three-bay nave, framed by 17th-century northern chapels and a 16th-century southern aisle, while retaining its Romanesque triumphal arch style.\n\nThe church is home to a number of listed buildings. These include the 15th- or 16th-century Saint-Robert de Molesme, a stained-glass window depicting the Champagne coat of arms, a 17th-century lectern with eagle in the choir, a 16th-century cast-iron stoup at the entrance, and many others.\n\nNumerous works have been carried out over the years, including renovation of the Sacré-C?ur altar, the barrel vaults (part of which collapsed in 1984), restoration of the three altars and re-roofing."
+        ],
+        "it": [
+          "Questo edificio dell'XI secolo è l'unico della regione ad aver conservato tutte le sue caratteristiche romaniche e gotiche. Nel XVI secolo è stato abbellito con una navata centrale a tre campate, incorniciata da cappelle settentrionali del XVII secolo e da una navata meridionale del XVI secolo, pur mantenendo il suo stile romanico con un arco trionfale.\n\nLa chiesa ospita diversi oggetti classificati come monumenti storici. Tra questi, Saint-Robert de Molesme, risalente al XV o XVI secolo, una vetrata raffigurante lo stemma della Champagne, un leggio con aquila del XVII secolo nel coro, un'acquasantiera in ghisa del XVI secolo all'ingresso e molti altri.\n\nNel corso degli anni sono stati eseguiti numerosi lavori, tra cui la ristrutturazione dell'altare del Sacro Cuore, le volte a botte a sesto acuto, una parte delle quali è crollata nel 1984, il restauro dei tre altari e il rifacimento dei tetti."
+        ],
+        "fr": [
+          "Cet édifice du XIème siècle est le seul de la région à avoir conservé tous ces espaces romans et gothiques à la fois. Il a été embelli au XVIème siècle d’une nef à trois travées, encadrées de chapelles septentrionales du XVIIe siècle et d’un collatéral méridional du XVIème siècle, tout en conservant son style roman en arc triomphal.\n\nCette église abrite plusieurs pièces classées aux monuments historiques. Citons Saint-Robert de Molesme du XVème ou XVIème siècle, le vitrail des armoiries de Champagne, un lutrin avec son aigle du XVIIème siècle au chœur, un bénitier en fonte du XVIème siècle, placé à l’entrée, et bien d’autres.\n\nDe nombreux travaux ont été réalisés au fil du temps, notamment la rénovation de l’autel du Sacré-Cœur, des voûtes en berceau brisé, dont une partie s’est écroulée en 1984, la restauration des trois autels et le remaniement de la toiture."
+        ],
+        "es": [
+          "Este edificio del siglo XI es el único de la región que conserva todos sus elementos románicos y góticos. Fue embellecido en el siglo XVI con una nave de tres tramos, enmarcada por capillas septentrionales del siglo XVII y una nave meridional del siglo XVI, conservando su estilo románico con arco triunfal.\n\nLa iglesia alberga varias piezas catalogadas como monumentos históricos. Entre ellos, San Roberto de Molesme, del siglo XV o XVI, una vidriera con el escudo de Champaña, un atril con un águila del siglo XVII en el coro, una pila de agua bendita de hierro fundido del siglo XVI en la entrada, etc.\n\nA lo largo de los años se han llevado a cabo numerosas obras, como la renovación del altar del Sagrado Corazón, las bóvedas de cañón apuntadas, parte de las cuales se derrumbaron en 1984, la restauración de los tres altares y el retejado."
+        ],
+        "nl": [
+          "Dit 11e-eeuwse gebouw is het enige in de regio waarvan alle romaanse en gotische kenmerken bewaard zijn gebleven. Het werd in de 16e eeuw verfraaid met een schip met drie traveeën, omlijst door 17e-eeuwse noordelijke kapellen en een 16e-eeuwse zuidelijke zijbeuk, terwijl de romaanse stijl met een triomfboog behouden bleef.\n\nDe kerk herbergt verschillende objecten die op de lijst van historische monumenten staan. Dit zijn onder andere Saint-Robert de Molesme uit de 15e of 16e eeuw, een glas-in-loodraam met het wapen van Champagne, een lessenaar met een adelaar uit de 17e eeuw in het koor, een gietijzeren wijwatervont uit de 16e eeuw bij de ingang en nog veel meer.\n\nIn de loop der jaren is er veel werk verricht, waaronder de renovatie van het Heilig Hartaltaar, de puntige tongewelven waarvan een deel in 1984 instortte, de restauratie van de drie altaren en de nieuwe dakbedekking."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/1f3546d8-063a-3755-bdb5-01347507ac52",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/24bc4a0a-c37b-3f31-928a-92c3576d0458",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c7c5b071-b6d8-3a58-8d8f-c6124f0597d3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/cf78e1b2-bb56-3437-888f-a003a44f3b69",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d9390fbf-2ee7-35f7-9e02-3ed4101f553a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasExternalReference": [
+    {
+      "@id": "https://data.datatourisme.fr/90cdad63-7e46-b0e1-139b-13ddc619c130",
+      "@type": [
+        "ExternalReference"
+      ],
+      "hasExternalIdentifier": "a7e068e6-a9b0-45c4-92f2-332965f569e8",
+      "hasExternalPlatform": [
+        {
+          "@id": "kb:AcceslibrePlatform",
+          "@type": [
+            "ExternalPlatform"
+          ],
+          "rdfs:comment": {
+            "de": [
+              "Teilen Sie wichtige Reiseinformationen für Menschen mit Behinderungen."
+            ],
+            "pt": [
+              "Compartilhe informações essenciais sobre viagens para pessoas com deficiência."
+            ],
+            "en": [
+              "Share essential travel information for people with disabilities."
+            ],
+            "it": [
+              "Condividi informazioni di viaggio essenziali per le persone con disabilità."
+            ],
+            "fr": [
+              "Partagez les informations indispensables aux déplacements des personnes en situation de handicap."
+            ],
+            "nl": [
+              "Deel essentiële reisinformatie voor mensen met een handicap."
+            ],
+            "es": [
+              "Comparta información de viaje esencial para personas con discapacidades."
+            ]
+          },
+          "rdfs:label": {
+            "de": [
+              "Acceslibre-Plattform"
+            ],
+            "pt": [
+              "Plataforma Acceslibre"
+            ],
+            "en": [
+              "Acceslibre platform"
+            ],
+            "it": [
+              "Piattaforma Acceslibre"
+            ],
+            "fr": [
+              "Plateforme Acceslibre"
+            ],
+            "es": [
+              "Plataforma Acceslibre"
+            ],
+            "nl": [
+              "Acceslibre-platform"
+            ]
+          },
+          "hasExternalPlatformUrl": "https://acceslibre.beta.gouv.fr"
+        }
+      ]
+    }
+  ],
+  "hasMainRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/ac99f977-f4b5-39b8-bcbc-06bd6d4ba43a",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/41764720-4f4b-3dad-a7d1-7c514f9d5352",
+          "ebucore:title": {
+            "fr": [
+              "cross-3080144_1920.jpg"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "Pixabay"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/d38c9829-6f41-33d2-8a38-e3c9252ec3ba",
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            },
+            {
+              "@id": "kb:PNG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "PDF-Bild"
+                ],
+                "pt": [
+                  "Imagem PDF"
+                ],
+                "en": [
+                  "PDF image file"
+                ],
+                "it": [
+                  "Immagine PDF"
+                ],
+                "fr": [
+                  "Image PDF"
+                ],
+                "nl": [
+                  "Pdf-afbeelding"
+                ],
+                "es": [
+                  "Imagen PDF"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/png"
+                ],
+                "pt": [
+                  "image/png"
+                ],
+                "en": [
+                  "image/png"
+                ],
+                "it": [
+                  "image/png"
+                ],
+                "fr": [
+                  "image/png"
+                ],
+                "nl": [
+                  "image/png"
+                ],
+                "es": [
+                  "image/png"
+                ]
+              }
+            }
+          ],
+          "ebucore:locator": [
+            "http://medias.tourism-system.com/8/2/627522_cross-3080144_1920.jpg"
+          ],
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/286b87c7-2c10-3773-824c-ce59430f8eeb",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/07ede457-2ee0-3271-8a69-67bcbaaa4139",
+          "ebucore:isCoveredBy": "CC BY-SA 3.0",
+          "ebucore:title": {
+            "fr": [
+              "Radonvilliers Eglise2"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "Gérard Janot (https://commons.wikimedia.org/wiki/User:G%C3%A9rard_Janot)"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/a1636800-6aca-3f70-b940-679f69a4cfc0",
+          "ebucore:fileSize": [
+            2421265
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 1944,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/5/57/Radonvilliers_Eglise2.JPG"
+          ],
+          "ebucore:width": 2592,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ac99f977-f4b5-39b8-bcbc-06bd6d4ba43a",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/41764720-4f4b-3dad-a7d1-7c514f9d5352",
+          "ebucore:title": {
+            "fr": [
+              "cross-3080144_1920.jpg"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "Pixabay"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/d38c9829-6f41-33d2-8a38-e3c9252ec3ba",
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            },
+            {
+              "@id": "kb:PNG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "PDF-Bild"
+                ],
+                "pt": [
+                  "Imagem PDF"
+                ],
+                "en": [
+                  "PDF image file"
+                ],
+                "it": [
+                  "Immagine PDF"
+                ],
+                "fr": [
+                  "Image PDF"
+                ],
+                "nl": [
+                  "Pdf-afbeelding"
+                ],
+                "es": [
+                  "Imagen PDF"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/png"
+                ],
+                "pt": [
+                  "image/png"
+                ],
+                "en": [
+                  "image/png"
+                ],
+                "it": [
+                  "image/png"
+                ],
+                "fr": [
+                  "image/png"
+                ],
+                "nl": [
+                  "image/png"
+                ],
+                "es": [
+                  "image/png"
+                ]
+              }
+            }
+          ],
+          "ebucore:locator": [
+            "http://medias.tourism-system.com/8/2/627522_cross-3080144_1920.jpg"
+          ],
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Religion",
+      "@type": [
+        "ArchitecturalStyle",
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Religion"
+        ],
+        "pt": [
+          "Religião"
+        ],
+        "en": [
+          "Religion"
+        ],
+        "it": [
+          "Religione"
+        ],
+        "fr": [
+          "Religion"
+        ],
+        "nl": [
+          "Religie"
+        ],
+        "es": [
+          "Religión"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/635934c5-3af7-3a94-a07e-3b8aacb46fb9",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/697f9adf-caf8-3bb3-b6e4-07899da6c177",
+          "schema:addressLocality": "Radonvilliers",
+          "schema:postalCode": "10500",
+          "schema:streetAddress": [
+            "Rue de l'Église"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:10313",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Radonvilliers"
+              ],
+              "pt": [
+                "Radonvilliers"
+              ],
+              "en": [
+                "Radonvilliers"
+              ],
+              "it": [
+                "Radonvilliers"
+              ],
+              "fr": [
+                "Radonvilliers"
+              ],
+              "nl": [
+                "Radonvilliers"
+              ],
+              "es": [
+                "Radonvilliers"
+              ]
+            },
+            "insee": "10313",
+            "isPartOfDepartment": {
+              "@id": "kb:France4410",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Aube"
+                ],
+                "pt": [
+                  "Aube"
+                ],
+                "en": [
+                  "Aube"
+                ],
+                "it": [
+                  "Aube"
+                ],
+                "fr": [
+                  "Aube"
+                ],
+                "nl": [
+                  "Aube"
+                ],
+                "es": [
+                  "Aube"
+                ]
+              },
+              "insee": "10",
+              "isPartOfRegion": {
+                "@id": "kb:France44",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Grand Est"
+                  ],
+                  "pt": [
+                    "Grand Est"
+                  ],
+                  "en": [
+                    "Grand Est"
+                  ],
+                  "it": [
+                    "Grand Est"
+                  ],
+                  "fr": [
+                    "Grand Est"
+                  ],
+                  "nl": [
+                    "Grand Est"
+                  ],
+                  "es": [
+                    "Grand Est"
+                  ]
+                },
+                "insee": "44",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/c086fd1d-b5f4-315b-bcc8-19b33d3e4daa",
+        "schema:latitude": "48.3596238",
+        "schema:longitude": "4.5052995",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/6b463cd2-41ce-3083-a02a-1580419065c5",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/697f9adf-caf8-3bb3-b6e4-07899da6c177",
+          "schema:addressLocality": "Radonvilliers",
+          "schema:postalCode": "10500",
+          "schema:streetAddress": [
+            "Rue de l'Église"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:10313",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Radonvilliers"
+              ],
+              "pt": [
+                "Radonvilliers"
+              ],
+              "en": [
+                "Radonvilliers"
+              ],
+              "it": [
+                "Radonvilliers"
+              ],
+              "fr": [
+                "Radonvilliers"
+              ],
+              "nl": [
+                "Radonvilliers"
+              ],
+              "es": [
+                "Radonvilliers"
+              ]
+            },
+            "insee": "10313",
+            "isPartOfDepartment": {
+              "@id": "kb:France4410",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Aube"
+                ],
+                "pt": [
+                  "Aube"
+                ],
+                "en": [
+                  "Aube"
+                ],
+                "it": [
+                  "Aube"
+                ],
+                "fr": [
+                  "Aube"
+                ],
+                "nl": [
+                  "Aube"
+                ],
+                "es": [
+                  "Aube"
+                ]
+              },
+              "insee": "10",
+              "isPartOfRegion": {
+                "@id": "kb:France44",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Grand Est"
+                  ],
+                  "pt": [
+                    "Grand Est"
+                  ],
+                  "en": [
+                    "Grand Est"
+                  ],
+                  "it": [
+                    "Grand Est"
+                  ],
+                  "fr": [
+                    "Grand Est"
+                  ],
+                  "nl": [
+                    "Grand Est"
+                  ],
+                  "es": [
+                    "Grand Est"
+                  ]
+                },
+                "insee": "44",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:email": [
+        "mairie.radonvilliers@orange.fr"
+      ],
+      "schema:legalName": "Eglise Notre-Dame-de-l'Assomption de Radonvilliers",
+      "schema:telephone": [
+        "+33 3 25 92 21 34"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "lastUpdate": "2022-09-21",
+  "lastUpdateDatatourisme": "2023-10-05T16:36:49.793Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/f703fcc7-de56-371c-9e6f-75864a8c2b07",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/45216cf6-9d51-3ddd-a088-89824ae204c3",
+          "schema:priceCurrency": "Eur",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "hasEligiblePolicy": [
+            {
+              "@id": "kb:Free",
+              "@type": [
+                "PricingPolicy"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Kostenlos"
+                ],
+                "pt": [
+                  "Gratuito"
+                ],
+                "en": [
+                  "Free"
+                ],
+                "it": [
+                  "Gratuito"
+                ],
+                "fr": [
+                  "Gratuit"
+                ],
+                "es": [
+                  "Gratuito"
+                ],
+                "nl": [
+                  "Gratis"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,413 @@
+{
+  "@id": "https://data.datatourisme.fr/6/ee232784-cb90-30ba-a4f9-423973b34581",
+  "dc:identifier": "FMABFC000V51Y041",
+  "schema:endDate": [
+    "2024-07-06"
+  ],
+  "schema:startDate": [
+    "2024-07-06"
+  ],
+  "@type": [
+    "schema:Event",
+    "schema:MusicEvent",
+    "Concert",
+    "CulturalEvent",
+    "EntertainmentAndEvent",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "de": [
+      "Les Samedis de l'Orgue"
+    ],
+    "en": [
+      "Les Samedis de l'Orgue"
+    ],
+    "fr": [
+      "Les Samedis de l'Orgue"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/6/e2494b31-dba8-3351-b2c4-0418797cb6f8",
+    "dc:identifier": "0163230a-d41d-4723-9174-752aacba8f1d",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/4677ccd0-f907-37ac-9dbc-8af98396b53b",
+        "schema:postalCode": "70300",
+        "schema:streetAddress": [
+          "30 Rue Victor Genoux"
+        ],
+        "@type": [
+          "schema:PostalAddress"
+        ]
+      }
+    ],
+    "schema:email": [
+      "tourisme@luxeuil-vosges-sud.fr"
+    ],
+    "schema:legalName": "OFFICE DE TOURISME DE LUXEUIL-LES-BAINS VOSGES DU SUD",
+    "schema:telephone": [
+      "+33 3 84 40 06 41"
+    ],
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.luxeuil-vosges-sud.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/63442164-1551-397f-8554-cc6285b56104",
+      "schema:legalName": "SIT Bourgogne-Franche-Comté",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.bourgognefranchecomte.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/1388524e-a3fa-3336-befd-0eddadb60ce1",
+      "schema:telephone": [
+        "+33 3 84 40 06 41"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/85411dd9-ec10-36f4-af67-33793304fc58",
+      "dc:description": {
+        "de": [
+          "Um 11 Uhr: \"Appetitanreger\": Vorstellung der Orgel und Einführung in die vorgeschlagenen Werke. \nUm 17 Uhr: Konzert in der Basilika St. Peter.  Vincent Bernhardt, Im Dialog..., Nicolas de Grigny und Johann Sebastian Bach. \n\nProgramm: \nSamstag, 4. Mai, Jean-Claude Raupp unter Mitwirkung der Ambrosiniens.\nOrgel und abwechselnder Cantus planus. \nDer gregorianische Choral in der Orgelmusik des 16. bis 18. Jahrhunderts in Italien und Deutschland.\nOrganisiert von den Amis de l'orgue de Luxeuil-les-Bains (Orgelfreunde von Luxeuil-les-Bains)\n\nSamstag, 1. Juni: Antonio Garcia. \nLouis-Nicolas Clérambault, Abraham van den Kerkhoven, Dietrich Buxtehude, Louis Marchand. \nOrganisiert von Culture 70.\n\nSamstag, 6. Juli: Constance Taillard. \nVersailles Westminster. \nGeorg Friedrich Händel, Henry Purcell, Louis Couperin, Guillaume-Nicolas Nivers, Nicolas Lebègue . \nOrganisiert von den Amis de l'orgue de Luxeuil-les-Bains. \n\nSamstag, 3. August: Charlotte und Marie Dumas. \nViennoiseries. \nWolfgang Amadeus Mozart und Franz Schubert.\nOrganisiert von Culture 70 / Musique et Mémoire. \n\nSamstag, 7. September, Matthieu Boutineau. \nMit Frische und Zärtlichkeit... \nVon Pierre Attaingnant bis Jehan Alain. \nOrganisiert von Culture 70. \n\nKostenlos.\nInformationen unter 03 84 40 06 41."
+        ],
+        "en": [
+          "11am: \"mise en bouche\": presentation of the organ and introduction to the works on offer. \nAt 5pm: concert in St Peter's Basilica.  Vincent Bernhardt, En dialogue..., Nicolas de Grigny and Johann Sebastian Bach. \n\nProgramme: \nSaturday 4 May, Jean-Claude Raupp with the participation of the Ambrosiniens.\nAlternating organ and plainsong. \nGregorian chant in organ music from the 16th to 18th centuries in Italy and Germany.\nOrganised by the Friends of the Luxeuil-les-Bains organ\n\nSaturday 1 June, Antonio Garcia. \nLouis-Nicolas Clérambault, Abraham van den Kerkhoven, Dietrich Buxtehude, Louis Marchand. \nOrganised by Culture 70.\n\nSaturday 6 July, Constance Taillard. \nVersailles Westminster. \nGeorg Friedrich Händel, Henry Purcell, Louis Couperin, Guillaume-Nicolas Nivers, Nicolas Lebègue . \nOrganised by the Friends of the Luxeuil-les-Bains Organ. \n\nSaturday 3 August, Charlotte and Marie Dumas. \nViennese pastries. \nWolfgang Amadeus Mozart and Franz Schubert.\nOrganised by Culture 70 / Musique et Mémoire. \n\nSaturday 7 September, Matthieu Boutineau. \nWith freshness and tenderness... \nFrom Pierre Attaingnant to Jehan Alain. \nOrganised by Culture 70. \n\nFree admission.\nInformation on 03 84 40 06 41."
+        ],
+        "it": [
+          "Alle 11, \"mise en bouche\": presentazione dell'organo e introduzione alle opere proposte.\nAlle 17: concerto nella Basilica di San Pietro.  Vincent Bernhardt, En dialogue, Nicolas de Grigny e Johann Sebastian Bach.\n\nProgramma :\nSabato 4 maggio, Jean-Claude Raupp con la partecipazione degli Ambrosiniens.\nOrgano e canto alternato.\nIl canto gregoriano nella musica per organo dal XVI al XVIII secolo in Italia e in Germania.\nOrganizzato dagli Amici dell'organo di Luxeuil-les-Bains\n\nSabato 1 giugno, Antonio Garcia.\nLouis-Nicolas Clérambault, Abraham van den Kerkhoven, Dietrich Buxtehude, Louis Marchand.\nOrganizzato da Culture 70.\n\nSabato 6 luglio, Constance Taillard.\nVersailles Westminster.\nGeorg Friedrich Händel, Henry Purcell, Louis Couperin, Guillaume-Nicolas Nivers, Nicolas Lebègue.\nOrganizzato dagli Amici dell'organo di Luxeuil-les-Bains.\n\nSabato 3 agosto, Charlotte e Marie Dumas.\nPasticceria viennese.\nWolfgang Amadeus Mozart e Franz Schubert.\nA cura di Culture 70 / Musique et Mémoire.\n\nSabato 7 settembre, Matthieu Boutineau.\nCon freschezza e tenerezza?\nDa Pierre Attaingnant a Jehan Alain.\nOrganizzato da Culture 70.\n\nIngresso libero.\nInformazioni al numero 03 84 40 06 41."
+        ],
+        "fr": [
+          "À 11h, \"mise en bouche\" : présentation de l'orgue et introduction aux œuvres proposées. \nÀ 17h : concert à la Basilique St Pierre.  Vincent Bernhardt, En dialogue…, Nicolas de Grigny et Johann Sebastian Bach. \n\nProgramme : \nSamedi 4 mai, Jean-Claude Raupp avec la participation des Ambrosiniens.\nOrgue et plain-chant alterné. \nLe chant grégorien dans la musique d'orgue du XVIe au XVIIIe siècle en Italie et en Allemagne.\nOrganisé par les Amis de l’orgue de Luxeuil-les-Bains\n\nSamedi 1er juin, Antonio Garcia. \nLouis-Nicolas Clérambault, Abraham van den Kerkhoven, Dietrich Buxtehude, Louis Marchand. \nOrganisé par Culture 70.\n\nSamedi 6 juillet, Constance Taillard. \nVersailles Westminster. \nGeorg Friedrich Händel, Henry Purcell, Louis Couperin, Guillaume-Nicolas Nivers, Nicolas Lebègue  . \nOrganisé par les Amis de l’orgue de Luxeuil-les-Bains. \n\nSamedi 3 août, Charlotte et Marie Dumas. \nViennoiseries. \nWolfgang Amadeus Mozart et Franz Schubert.\nOrganisé par Culture 70 / Musique et Mémoire. \n\nSamedi 7 septembre, Matthieu Boutineau. \nAvec fraîcheur et tendresse… \nDe Pierre Attaingnant à Jehan Alain. \nOrganisé par Culture 70. \n\nGratuit.\nInformations au 03 84 40 06 41."
+        ],
+        "nl": [
+          "Om 11 uur een \"mise en bouche\": presentatie van het orgel en inleiding op de aangeboden werken.\nOm 17.00 uur: concert in de Sint-Pietersbasiliek.  Vincent Bernhardt, En dialogue, Nicolas de Grigny en Johann Sebastian Bach.\n\nProgramma :\nZaterdag 4 mei, Jean-Claude Raupp met medewerking van de Ambrosiniens.\nOrgel en afwisselend gregoriaans.\nGregoriaans in de orgelmuziek van de 16e tot 18e eeuw in Italië en Duitsland.\nGeorganiseerd door de Vrienden van het Luxeuil-les-Bains-orgel\n\nZaterdag 1 juni, Antonio Garcia.\nLouis-Nicolas Clérambault, Abraham van den Kerkhoven, Dietrich Buxtehude, Louis Marchand.\nGeorganiseerd door Cultuur 70.\n\nZaterdag 6 juli, Constance Taillard.\nVersailles Westminster.\nGeorg Friedrich Händel, Henry Purcell, Louis Couperin, Guillaume-Nicolas Nivers, Nicolas Lebègue .\nGeorganiseerd door de Vrienden van het Luxeuil-les-Bains orgel.\n\nZaterdag 3 augustus, Charlotte en Marie Dumas.\nWeens gebak.\nWolfgang Amadeus Mozart en Franz Schubert.\nGeorganiseerd door Culture 70 / Musique et Mémoire.\n\nZaterdag 7 september, Matthieu Boutineau.\nMet frisheid en tederheid?\nVan Pierre Attaingnant tot Jehan Alain.\nGeorganiseerd door Culture 70.\n\nGratis toegang.\nInlichtingen op 03 84 40 06 41."
+        ],
+        "es": [
+          "A las 11:00 horas, \"mise en bouche\": presentación del órgano e introducción a las obras propuestas.\nA las 17.00 horas: concierto en la Basílica de San Pedro.  Vincent Bernhardt, En dialogue, Nicolas de Grigny y Johann Sebastian Bach.\n\nPrograma :\nSábado 4 de mayo, Jean-Claude Raupp con la participación de los Ambrosiniens.\nÓrgano y canto llano alterno.\nEl canto gregoriano en la música para órgano de los siglos XVI al XVIII en Italia y Alemania.\nOrganizado por los Amigos del Órgano de Luxeuil-les-Bains\n\nSábado 1 de junio, Antonio García.\nLouis-Nicolas Clérambault, Abraham van den Kerkhoven, Dietrich Buxtehude, Louis Marchand.\nOrganizado por Culture 70.\n\nSábado 6 de julio, Constance Taillard.\nVersalles Westminster.\nGeorg Friedrich Händel, Henry Purcell, Louis Couperin, Guillaume-Nicolas Nivers, Nicolas Lebègue .\nOrganizado por los Amigos del órgano de Luxeuil-les-Bains.\n\nSábado 3 de agosto, Charlotte y Marie Dumas.\nPastas vienesas.\nWolfgang Amadeus Mozart y Franz Schubert.\nOrganiza Culture 70 / Musique et Mémoire.\n\nSábado 7 de septiembre, Matthieu Boutineau.\n¿Con frescura y ternura?\nDe Pierre Attaingnant a Jehan Alain.\nOrganiza Culture 70.\n\nEntrada gratuita.\nInformación en el 03 84 40 06 41."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/3d4e0838-9a2a-318a-8261-0e5d5a93afd7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/51619168-8f37-3775-aba2-7730c18add4b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c1b10a16-ffd7-30fe-8972-ec90846aa220",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/70ec2c1f-0c7a-33d5-876d-501949d89cbe",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/de97d7f8-1c1b-302b-a284-76e7efbc9907",
+          "schema:addressLocality": "Luxeuil-les-Bains",
+          "schema:postalCode": "70300",
+          "schema:streetAddress": [
+            "1 Place Saint-Pierre",
+            "Basilique St Pierre"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:70311",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Luxeuil-les-Bains"
+              ],
+              "pt": [
+                "Luxeuil-les-Bains"
+              ],
+              "en": [
+                "Luxeuil-les-Bains"
+              ],
+              "it": [
+                "Luxeuil-les-Bains"
+              ],
+              "fr": [
+                "Luxeuil-les-Bains"
+              ],
+              "nl": [
+                "Luxeuil-les-Bains"
+              ],
+              "es": [
+                "Luxeuil-les-Bains"
+              ]
+            },
+            "insee": "70311",
+            "isPartOfDepartment": {
+              "@id": "kb:France2770",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Haute-Saône"
+                ],
+                "pt": [
+                  "Haute-Saône"
+                ],
+                "en": [
+                  "Haute-Saône"
+                ],
+                "it": [
+                  "Haute-Saône"
+                ],
+                "fr": [
+                  "Haute-Saône"
+                ],
+                "nl": [
+                  "Haute-Saône"
+                ],
+                "es": [
+                  "Haute-Saône"
+                ]
+              },
+              "insee": "70",
+              "isPartOfRegion": {
+                "@id": "kb:France27",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bourgogne-Franche-Comté"
+                  ],
+                  "pt": [
+                    "Bourgogne-Franche-Comté"
+                  ],
+                  "en": [
+                    "Bourgogne-Franche-Comté"
+                  ],
+                  "it": [
+                    "Bourgogne-Franche-Comté"
+                  ],
+                  "fr": [
+                    "Bourgogne-Franche-Comté"
+                  ],
+                  "nl": [
+                    "Bourgogne-Franche-Comté"
+                  ],
+                  "es": [
+                    "Bourgogne-Franche-Comté"
+                  ]
+                },
+                "insee": "27",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/590ac6f2-f567-3182-84fd-6e3f8e620363",
+        "schema:latitude": "47.81689",
+        "schema:longitude": "6.38144",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/4db9582f-7e1b-3afd-9b92-6cc4ee830ad1",
+      "schema:legalName": "SIT Bourgogne-Franche-Comté",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://pros.bourgognefranchecomte.com/accompagnement/outils-et-supports/decibelles-data/"
+      ]
+    }
+  ],
+  "lastUpdate": "2024-02-13",
+  "lastUpdateDatatourisme": "2024-02-14T00:15:47.962Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/14c1bf45-8631-3faa-82f4-523a2df9fc35",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/a477d7ae-d9c6-33ef-aa6c-6ea335ad5def",
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "hasEligiblePolicy": [
+            {
+              "@id": "kb:Free",
+              "@type": [
+                "PricingPolicy"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Kostenlos"
+                ],
+                "pt": [
+                  "Gratuito"
+                ],
+                "en": [
+                  "Free"
+                ],
+                "it": [
+                  "Gratuito"
+                ],
+                "fr": [
+                  "Gratuit"
+                ],
+                "es": [
+                  "Gratuito"
+                ],
+                "nl": [
+                  "Gratis"
+                ]
+              }
+            }
+          ],
+          "name": {
+            "de": [
+              "Kostenfrei"
+            ],
+            "en": [
+              "Free"
+            ],
+            "fr": [
+              "Gratuit"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ],
+  "takesPlaceAt": [
+    {
+      "@id": "https://data.datatourisme.fr/b4816174-9139-3e76-9a3d-3cb992be5696",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2024-07-06",
+      "endTime": "12:00:00",
+      "startDate": "2024-07-06",
+      "startTime": "11:00:00"
+    },
+    {
+      "@id": "https://data.datatourisme.fr/cb806561-443f-38c5-82bc-d6d91638dfc1",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2024-07-06",
+      "endTime": "19:00:00",
+      "startDate": "2024-07-06",
+      "startTime": "17:00:00"
+    }
+  ]
+}

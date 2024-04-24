@@ -1,0 +1,206 @@
+{
+  "root": true,
+  "ignorePatterns": [
+    "!**/*"
+  ],
+  "overrides": [
+    {
+      "files": [
+        "*.ts"
+      ],
+      "parserOptions": {
+        "project": [
+          "tsconfig.json"
+        ],
+        "createDefaultProgram": true
+      },
+      "extends": [
+        "eslint:recommended",
+        "plugin:@typescript-eslint/recommended",
+        "plugin:@angular-eslint/recommended",
+        "plugin:@angular-eslint/template/process-inline-templates",
+        "prettier",
+        "plugin:prettier/recommended"
+      ],
+      "plugins": [
+        "eslint-plugin-react"
+      ],
+      "rules": {
+        "@angular-eslint/component-selector": [
+          "error",
+          {
+            "type": "element",
+            "prefix": "app",
+            "style": "kebab-case"
+          }
+        ],
+        "@angular-eslint/directive-selector": [
+          "error",
+          {
+            "type": "attribute",
+            "prefix": "app",
+            "style": "camelCase"
+          }
+        ],
+        "@typescript-eslint/member-delimiter-style": [
+          "off",
+          {
+            "multiline": {
+              "delimiter": "none",
+              "requireLast": true
+            },
+            "singleline": {
+              "delimiter": "semi",
+              "requireLast": false
+            }
+          }
+        ],
+        "@typescript-eslint/quotes": [
+          "off",
+          "single",
+          {
+            "allowTemplateLiterals": true
+          }
+        ],
+        "semi": "off",
+        "@typescript-eslint/semi": [
+          "error",
+          "always"
+        ],
+        "@typescript-eslint/type-annotation-spacing": "off",
+        "arrow-parens": [
+          "off",
+          "always"
+        ],
+        "brace-style": [
+          "off",
+          "off"
+        ],
+        "eol-last": "off",
+        "linebreak-style": "off",
+        "max-len": "off",
+        "new-parens": "off",
+        "newline-per-chained-call": "off",
+        "no-extra-semi": "off",
+        "no-irregular-whitespace": "off",
+        "no-trailing-spaces": "off",
+        "quote-props": "off",
+        "react/jsx-curly-spacing": "off",
+        "react/jsx-equals-spacing": "off",
+        "react/jsx-tag-spacing": [
+          "off",
+          {
+            "afterOpening": "allow",
+            "closingSlash": "allow"
+          }
+        ],
+        "react/jsx-wrap-multilines": "off",
+        "space-before-function-paren": "off",
+        "space-in-parens": [
+          "off",
+          "never"
+        ],
+        "jsdoc/newline-after-description": "off",
+        "no-underscore-dangle": "off",
+        "@typescript-eslint/no-explicit-any": "off",
+        "@typescript-eslint/no-var-requires": "off",
+        "@typescript-eslint/no-unused-vars": "off",
+        "no-async-promise-executor": "off",
+        "no-extra-boolean-cast": "off",
+        "@typescript-eslint/member-ordering": "off",
+        "prettier/prettier": "warn",
+        "@typescript-eslint/naming-convention": [
+          "error",
+          {
+            "selector": "variableLike",
+            "format": [
+              "camelCase"
+            ],
+            "leadingUnderscore": "allow"
+          },
+          {
+            "selector": "memberLike",
+            "format": [
+              "camelCase",
+              "PascalCase",
+              "UPPER_CASE"
+            ],
+            "leadingUnderscore": "allow"
+          },
+          {
+            "selector": "memberLike",
+            "modifiers": [
+              "private"
+            ],
+            "format": [
+              "camelCase"
+            ],
+            "leadingUnderscore": "allow"
+          },
+          {
+            "selector": "variable",
+            "types": [
+              "boolean"
+            ],
+            "format": [
+              "camelCase"
+            ],
+            "leadingUnderscore": "allow"
+          },
+          {
+            "selector": "variable",
+            "modifiers": [
+              "const"
+            ],
+            "format": [
+              "camelCase",
+              "UPPER_CASE"
+            ],
+            "leadingUnderscore": "allow"
+          },
+          {
+            "selector": "enumMember",
+            "format": [
+              "snake_case",
+              "camelCase",
+              "PascalCase",
+              "UPPER_CASE"
+            ]
+          },
+          {
+            "selector": "typeParameter",
+            "format": [
+              "PascalCase"
+            ],
+            "prefix": [
+              "T"
+            ]
+          },
+          {
+            "selector": "class",
+            "format": [
+              "PascalCase"
+            ]
+          },
+          {
+            "selector": "typeLike",
+            "format": [
+              "PascalCase"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "files": [
+        "*.html"
+      ],
+      "extends": [
+        "plugin:@angular-eslint/template/recommended"
+      ],
+      "rules": {
+        "@angular-eslint/template/eqeqeq": "off"
+      }
+    }
+  ]
+}

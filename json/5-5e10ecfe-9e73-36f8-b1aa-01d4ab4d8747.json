@@ -1,0 +1,1046 @@
+{
+  "@id": "https://data.datatourisme.fr/5/5e10ecfe-9e73-36f8-b1aa-01d4ab4d8747",
+  "dc:identifier": "270000235",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation",
+    "SelfCateringAccommodation"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Möbliertes Zimmer im 1. Stock mit separatem Eingang. CH1 (1 Doppelbett) CH2 (1 Doppelbett) Badezimmer, WC. Wohnzimmer mit TV, Schlafcouch für 2 Personen, kleine Bibliothek. Esszimmer. Vollständig ausgestattete amerikanische Küche (Ofen, Kühlschrank). Waschmaschine, Bügelzubehör. Ausstattung für Baby. Zentralheizung gegen Aufpreis. Große überdachte Terrasse mit Gartenmöbeln, Grill."
+    ],
+    "en": [
+      "Furnished located on the 1st floor with independent entrance. CH1 (1 bed 2 pers.) CH2 (1 bed 2 pers.) Shower room, wc. Living room with TV, sofa bed for 2 persons, small library. Dining room. American kitchen fully equipped (oven, refrigerator). Washing machine, ironing equipment. Baby equipment. Central heating in addition. Large covered terrace with garden furniture, barbecue."
+    ],
+    "it": [
+      "Appartamento arredato situato al 1° piano con ingresso indipendente. CH1 (1 letto matrimoniale) CH2 (1 letto matrimoniale) Bagno con doccia, WC. Soggiorno con TV, divano letto matrimoniale, piccola biblioteca. Sala da pranzo. Cucina completamente attrezzata (forno, frigorifero). Lavatrice, attrezzatura per stirare. Attrezzature per bambini. Riscaldamento centrale non incluso. Ampia terrazza coperta con mobili da giardino, barbecue."
+    ],
+    "fr": [
+      "Meublé situé au 1er étage avec entrée indépendante. CH1 (1 lit 2 pers.) CH2 (1 lit 2 pers.) Salle d'eau, wc. Salon avec TV, convertible 2 pers., petite bibliothèque. Salle à manger. Cuisine américaine toute équipée (four, réfrigérateur). Lave linge, matériel de repassage. Equip. bébé. Chauffage central en sus. Grande terrasse couverte avec mobilier de jardin, barbecue."
+    ],
+    "nl": [
+      "Gemeubileerd appartement gelegen op de 1e verdieping met onafhankelijke ingang. CH1 (1 tweepersoonsbed) CH2 (1 tweepersoonsbed) Doucheruimte, wc. Woonkamer met TV, tweepersoons slaapbank, kleine bibliotheek. Eetkamer. Volledig ingerichte keuken (oven, koelkast). Wasmachine, strijkbenodigdheden. Baby uitrusting. Centrale verwarming niet inbegrepen. Groot overdekt terras met tuinmeubelen, barbecue."
+    ],
+    "es": [
+      "Apartamento amueblado situado en la 1ª planta con entrada independiente. CH1 (1 cama doble) CH2 (1 cama doble) Ducha, wc. Salón con TV, sofá cama doble, pequeña biblioteca. Comedor. Cocina totalmente equipada (horno, nevera). Lavadora, equipo de planchado. Equipamiento para bebés. Calefacción central no incluida. Gran terraza cubierta con muebles de jardín, barbacoa."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Meublé \"À l'ancienne ferme\" M. LETSCHER - 6 pers."
+    ]
+  },
+  "allowedPersons": 4,
+  "availableLanguage": [
+    "de",
+    "en"
+  ],
+  "creationDate": "2012-01-04",
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/c8051789-a9a8-318e-aff0-28556275ebdd",
+    "schema:legalName": "Office de tourisme de l'Alsace Bossue",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/f9be77db-d6c0-3a31-9fa8-638da3098074",
+      "schema:legalName": "Système d'informations touristique Alsace",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/eae7368c-4356-38d6-94fe-4df22257b2ab",
+      "schema:email": [
+        "gerard.letscher@wanadoo.fr"
+      ],
+      "schema:legalName": "Meublé Letscher",
+      "schema:telephone": [
+        "+33 6 13 64 77 04"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/eae7368c-4356-38d6-94fe-4df22257b2ab",
+      "schema:email": [
+        "gerard.letscher@wanadoo.fr"
+      ],
+      "schema:legalName": "Meublé Letscher",
+      "schema:telephone": [
+        "+33 6 13 64 77 04"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/a9d8464c-351c-3ab4-bdf1-00351ff9f640",
+      "dc:description": {
+        "de": [
+          "Möblierte Ferienwohnung im 1. Stock mit separatem Eingang, an das Haus des Eigentümers angrenzend. CH1 (1 Doppelbett) CH2 (1 Doppelbett) Badezimmer, WC. Wohnzimmer mit TV, Schlafcouch für 2 Personen, kleine Bibliothek. Esszimmer. Vollständig ausgestattete amerikanische Küche (Ofen, Kühlschrank). Waschmaschine, Bügelmaterial. Ausstattung für Babys. Zentralheizung gegen Aufpreis. Große überdachte Terrasse (50 m²) mit Gartenmöbeln, Grill. Privater Parkplatz."
+        ],
+        "en": [
+          "Furnished tourist accommodation located on the 1st floor with independent entrance, adjoining the owner's house. CH1 (1 bed 2 pers.) CH2 (1 bed 2 pers.) Shower room, wc. Living room with TV, convertible 2 pers. bed, small library. Dining room. American kitchen fully equipped (oven, fridge). Washing machine, ironing equipment. Baby equipment. Central heating in addition. Large covered terrace (50 m²) with garden furniture, barbecue. Private car park."
+        ],
+        "it": [
+          "Meublé de tourisme situato al 1° piano con ingresso indipendente, adiacente alla casa del proprietario. CH1 (1 letto matrimoniale) CH2 (1 letto matrimoniale) Bagno con doccia, WC. Soggiorno con TV, divano letto matrimoniale, piccola biblioteca. Sala da pranzo. Cucina completamente attrezzata (forno, frigorifero). Lavatrice, attrezzatura per stirare. Attrezzature per bambini. Riscaldamento centrale non incluso. Grande terrazza coperta (50 m²) con mobili da giardino, barbecue. Parcheggio privato."
+        ],
+        "fr": [
+          "Meublé de tourisme situé au 1er étage avec entrée indépendante, mitoyen à la maison du propriétaire. CH1 (1 lit 2 pers.) CH2 (1 lit 2 pers.) Salle d'eau, wc. Salon avec TV, convertible 2 pers., petite bibliothèque. Salle à manger. Cuisine américaine toute équipée (four, réfrigérateur). Lave linge, matériel de repassage. Equipement bébé. Chauffage central en sus. Grande terrasse (50 m²) couverte avec mobilier de jardin, barbecue. Parking privatif."
+        ],
+        "es": [
+          "Meublé de tourisme situado en el 1er piso con entrada independiente, contiguo a la casa del propietario. CH1 (1 cama doble) CH2 (1 cama doble) Ducha, wc. Salón con TV, sofá cama doble, pequeña biblioteca. Comedor. Cocina totalmente equipada (horno, nevera). Lavadora, equipo de planchado. Equipamiento para bebés. Calefacción central no incluida. Gran terraza cubierta (50 m²) con muebles de jardín, barbacoa. Aparcamiento privado."
+        ],
+        "nl": [
+          "Meublé de tourisme gelegen op de 1e verdieping met onafhankelijke ingang, grenzend aan het huis van de eigenaar. CH1 (1 tweepersoonsbed) CH2 (1 tweepersoonsbed) Doucheruimte, wc. Woonkamer met TV, tweepersoons slaapbank, kleine bibliotheek. Eetkamer. Volledig ingerichte keuken (oven, koelkast). Wasmachine, strijkbenodigdheden. Baby uitrusting. Centrale verwarming niet inbegrepen. Groot overdekt terras (50 m²) met tuinmeubelen, barbecue. Privé parkeerplaats."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/01346528-fec3-3bb6-8ea4-3d9efdd341bf",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/2b8291c2-5104-3c90-9a54-f677b967fcaf",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/3352a3bd-ab82-3de4-a94b-da558c5dfa14",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4431d773-f314-3f58-9e4e-842d74d1fb1f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/484dc302-5c29-3a07-9967-62a57b6557ea",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/834ae66f-b0a7-3548-9296-8aad39db0b5b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/dc4a463f-89cd-3d60-9e55-ed29137eaff1",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/dff3e185-a76d-3382-9820-9c6e05bdf1af",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e7c51c88-53bd-3ce3-be7b-2bc6daeab786",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e8d8828b-5b00-3aec-a508-3fff37fdda0a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Möbliertes Zimmer im 1. Stock mit separatem Eingang. CH1 (1 Doppelbett) CH2 (1 Doppelbett) Badezimmer, WC. Wohnzimmer mit TV, Schlafcouch für 2 Personen, kleine Bibliothek. Esszimmer. Vollständig ausgestattete amerikanische Küche (Ofen, Kühlschrank). Waschmaschine, Bügelzubehör. Ausstattung für Baby. Zentralheizung gegen Aufpreis. Große überdachte Terrasse mit Gartenmöbeln, Grill."
+        ],
+        "en": [
+          "Furnished located on the 1st floor with independent entrance. CH1 (1 bed 2 pers.) CH2 (1 bed 2 pers.) Shower room, wc. Living room with TV, sofa bed for 2 persons, small library. Dining room. American kitchen fully equipped (oven, refrigerator). Washing machine, ironing equipment. Baby equipment. Central heating in addition. Large covered terrace with garden furniture, barbecue."
+        ],
+        "it": [
+          "Appartamento arredato situato al 1° piano con ingresso indipendente. CH1 (1 letto matrimoniale) CH2 (1 letto matrimoniale) Bagno con doccia, WC. Soggiorno con TV, divano letto matrimoniale, piccola biblioteca. Sala da pranzo. Cucina completamente attrezzata (forno, frigorifero). Lavatrice, attrezzatura per stirare. Attrezzature per bambini. Riscaldamento centrale non incluso. Ampia terrazza coperta con mobili da giardino, barbecue."
+        ],
+        "fr": [
+          "Meublé situé au 1er étage avec entrée indépendante. CH1 (1 lit 2 pers.) CH2 (1 lit 2 pers.) Salle d'eau, wc. Salon avec TV, convertible 2 pers., petite bibliothèque. Salle à manger. Cuisine américaine toute équipée (four, réfrigérateur). Lave linge, matériel de repassage. Equip. bébé. Chauffage central en sus. Grande terrasse couverte avec mobilier de jardin, barbecue."
+        ],
+        "nl": [
+          "Gemeubileerd appartement gelegen op de 1e verdieping met onafhankelijke ingang. CH1 (1 tweepersoonsbed) CH2 (1 tweepersoonsbed) Doucheruimte, wc. Woonkamer met TV, tweepersoons slaapbank, kleine bibliotheek. Eetkamer. Volledig ingerichte keuken (oven, koelkast). Wasmachine, strijkbenodigdheden. Baby uitrusting. Centrale verwarming niet inbegrepen. Groot overdekt terras met tuinmeubelen, barbecue."
+        ],
+        "es": [
+          "Apartamento amueblado situado en la 1ª planta con entrada independiente. CH1 (1 cama doble) CH2 (1 cama doble) Ducha, wc. Salón con TV, sofá cama doble, pequeña biblioteca. Comedor. Cocina totalmente equipada (horno, nevera). Lavadora, equipo de planchado. Equipamiento para bebés. Calefacción central no incluida. Gran terraza cubierta con muebles de jardín, barbacoa."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/15a2a07d-bda1-301b-ac79-50893feaeb43",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/266816d1-a387-3a79-9630-3494919872ac",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/48285f96-d712-32de-8cad-5b7fb519b0a2",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/641ca694-28dd-326f-ab8a-bb54111f21ab",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/66fda559-e526-33b2-b8b0-d434253cb24b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/0d80b527-eedf-3af1-b912-b039427ad701",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/7a0aa203-b964-3ed0-aee4-143e1d1a54ae",
+          "schema:addressLocality": "Sarre-Union",
+          "schema:postalCode": "67260",
+          "schema:streetAddress": [
+            "3c rue de Rimsdorf"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:67434",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Sarre-Union"
+              ],
+              "pt": [
+                "Sarre-Union"
+              ],
+              "en": [
+                "Sarre-Union"
+              ],
+              "it": [
+                "Sarre-Union"
+              ],
+              "fr": [
+                "Sarre-Union"
+              ],
+              "nl": [
+                "Sarre-Union"
+              ],
+              "es": [
+                "Sarre-Union"
+              ]
+            },
+            "insee": "67434",
+            "isPartOfDepartment": {
+              "@id": "kb:France4467",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bas-Rhin"
+                ],
+                "pt": [
+                  "Bas-Rhin"
+                ],
+                "en": [
+                  "Bas-Rhin"
+                ],
+                "it": [
+                  "Bas-Rhin"
+                ],
+                "fr": [
+                  "Bas-Rhin"
+                ],
+                "nl": [
+                  "Bas-Rhin"
+                ],
+                "es": [
+                  "Bas-Rhin"
+                ]
+              },
+              "insee": "67",
+              "isPartOfRegion": {
+                "@id": "kb:France44",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Grand Est"
+                  ],
+                  "pt": [
+                    "Grand Est"
+                  ],
+                  "en": [
+                    "Grand Est"
+                  ],
+                  "it": [
+                    "Grand Est"
+                  ],
+                  "fr": [
+                    "Grand Est"
+                  ],
+                  "nl": [
+                    "Grand Est"
+                  ],
+                  "es": [
+                    "Grand Est"
+                  ]
+                },
+                "insee": "44",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/856a6298-e29e-3ba8-b763-9831fa009a01",
+        "schema:latitude": "48.9412761226259",
+        "schema:longitude": "7.09176063537598",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/576fe819-eba5-333a-99c6-8bc85a0b2909",
+          "schema:dayOfWeek": [
+            {
+              "@id": "schema:Friday",
+              "@type": [
+                "schema:DayOfWeek"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Freitag"
+                ],
+                "pt": [
+                  "Sexta-feira"
+                ],
+                "en": [
+                  "Friday"
+                ],
+                "it": [
+                  "Venerdì"
+                ],
+                "fr": [
+                  "Vendredi"
+                ],
+                "nl": [
+                  "Vrijdag"
+                ],
+                "es": [
+                  "Viernes"
+                ]
+              }
+            },
+            {
+              "@id": "schema:Monday",
+              "@type": [
+                "schema:DayOfWeek"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Montag"
+                ],
+                "pt": [
+                  "Segunda-feira"
+                ],
+                "en": [
+                  "Monday"
+                ],
+                "it": [
+                  "Lunedì"
+                ],
+                "fr": [
+                  "Lundi"
+                ],
+                "nl": [
+                  "Maandag"
+                ],
+                "es": [
+                  "Lunes"
+                ]
+              }
+            },
+            {
+              "@id": "schema:Saturday",
+              "@type": [
+                "schema:DayOfWeek"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Samstag"
+                ],
+                "pt": [
+                  "Sábado"
+                ],
+                "en": [
+                  "Saturday"
+                ],
+                "it": [
+                  "Sabato"
+                ],
+                "fr": [
+                  "Samedi"
+                ],
+                "nl": [
+                  "Zaterdag"
+                ],
+                "es": [
+                  "Sábado"
+                ]
+              }
+            },
+            {
+              "@id": "schema:Sunday",
+              "@type": [
+                "schema:DayOfWeek"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Sonntag"
+                ],
+                "pt": [
+                  "Domingo"
+                ],
+                "en": [
+                  "Sunday"
+                ],
+                "it": [
+                  "Domenica"
+                ],
+                "fr": [
+                  "Dimanche"
+                ],
+                "nl": [
+                  "Zondag"
+                ],
+                "es": [
+                  "Domingo"
+                ]
+              }
+            },
+            {
+              "@id": "schema:Thursday",
+              "@type": [
+                "schema:DayOfWeek"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Donnerstag"
+                ],
+                "pt": [
+                  "Quinta-feira"
+                ],
+                "en": [
+                  "Thursday"
+                ],
+                "it": [
+                  "Giovedì"
+                ],
+                "fr": [
+                  "Jeudi"
+                ],
+                "es": [
+                  "Jueves"
+                ],
+                "nl": [
+                  "Donderdag"
+                ]
+              }
+            },
+            {
+              "@id": "schema:Tuesday",
+              "@type": [
+                "schema:DayOfWeek"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Dienstag"
+                ],
+                "pt": [
+                  "Terça-feira"
+                ],
+                "en": [
+                  "Tuesday"
+                ],
+                "it": [
+                  "Martedì"
+                ],
+                "fr": [
+                  "Mardi"
+                ],
+                "es": [
+                  "Martes"
+                ],
+                "nl": [
+                  "Dinsdag"
+                ]
+              }
+            },
+            {
+              "@id": "schema:Wednesday",
+              "@type": [
+                "schema:DayOfWeek"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Mittwoch"
+                ],
+                "pt": [
+                  "Quarta-feira"
+                ],
+                "en": [
+                  "Wednesday"
+                ],
+                "it": [
+                  "Mercoledì"
+                ],
+                "fr": [
+                  "Mercredi"
+                ],
+                "nl": [
+                  "Woensdag"
+                ],
+                "es": [
+                  "Miércoles"
+                ]
+              }
+            }
+          ],
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/fb60473f-b5d4-34b2-b3ab-7108e53db34e",
+          "schema:dayOfWeek": [
+            {
+              "@id": "schema:Friday",
+              "@type": [
+                "schema:DayOfWeek"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Freitag"
+                ],
+                "pt": [
+                  "Sexta-feira"
+                ],
+                "en": [
+                  "Friday"
+                ],
+                "it": [
+                  "Venerdì"
+                ],
+                "fr": [
+                  "Vendredi"
+                ],
+                "nl": [
+                  "Vrijdag"
+                ],
+                "es": [
+                  "Viernes"
+                ]
+              }
+            },
+            {
+              "@id": "schema:Monday",
+              "@type": [
+                "schema:DayOfWeek"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Montag"
+                ],
+                "pt": [
+                  "Segunda-feira"
+                ],
+                "en": [
+                  "Monday"
+                ],
+                "it": [
+                  "Lunedì"
+                ],
+                "fr": [
+                  "Lundi"
+                ],
+                "nl": [
+                  "Maandag"
+                ],
+                "es": [
+                  "Lunes"
+                ]
+              }
+            },
+            {
+              "@id": "schema:Saturday",
+              "@type": [
+                "schema:DayOfWeek"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Samstag"
+                ],
+                "pt": [
+                  "Sábado"
+                ],
+                "en": [
+                  "Saturday"
+                ],
+                "it": [
+                  "Sabato"
+                ],
+                "fr": [
+                  "Samedi"
+                ],
+                "nl": [
+                  "Zaterdag"
+                ],
+                "es": [
+                  "Sábado"
+                ]
+              }
+            },
+            {
+              "@id": "schema:Sunday",
+              "@type": [
+                "schema:DayOfWeek"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Sonntag"
+                ],
+                "pt": [
+                  "Domingo"
+                ],
+                "en": [
+                  "Sunday"
+                ],
+                "it": [
+                  "Domenica"
+                ],
+                "fr": [
+                  "Dimanche"
+                ],
+                "nl": [
+                  "Zondag"
+                ],
+                "es": [
+                  "Domingo"
+                ]
+              }
+            },
+            {
+              "@id": "schema:Thursday",
+              "@type": [
+                "schema:DayOfWeek"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Donnerstag"
+                ],
+                "pt": [
+                  "Quinta-feira"
+                ],
+                "en": [
+                  "Thursday"
+                ],
+                "it": [
+                  "Giovedì"
+                ],
+                "fr": [
+                  "Jeudi"
+                ],
+                "es": [
+                  "Jueves"
+                ],
+                "nl": [
+                  "Donderdag"
+                ]
+              }
+            },
+            {
+              "@id": "schema:Tuesday",
+              "@type": [
+                "schema:DayOfWeek"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Dienstag"
+                ],
+                "pt": [
+                  "Terça-feira"
+                ],
+                "en": [
+                  "Tuesday"
+                ],
+                "it": [
+                  "Martedì"
+                ],
+                "fr": [
+                  "Mardi"
+                ],
+                "es": [
+                  "Martes"
+                ],
+                "nl": [
+                  "Dinsdag"
+                ]
+              }
+            },
+            {
+              "@id": "schema:Wednesday",
+              "@type": [
+                "schema:DayOfWeek"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Mittwoch"
+                ],
+                "pt": [
+                  "Quarta-feira"
+                ],
+                "en": [
+                  "Wednesday"
+                ],
+                "it": [
+                  "Mercoledì"
+                ],
+                "fr": [
+                  "Mercredi"
+                ],
+                "nl": [
+                  "Woensdag"
+                ],
+                "es": [
+                  "Miércoles"
+                ]
+              }
+            }
+          ],
+          "schema:validFrom": "2024-01-01T00:00:00",
+          "schema:validThrough": "2024-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "internetAccess": true,
+      "petsAllowed": true
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/c8051789-a9a8-318e-aff0-28556275ebdd",
+      "schema:legalName": "Office de tourisme de l'Alsace Bossue",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "lastUpdate": "2024-01-02",
+  "lastUpdateDatatourisme": "2024-01-03T08:04:12.589Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/4a2294f7-9491-336c-8689-ddd7a9fd0f74",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:Check",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Scheck"
+            ],
+            "pt": [
+              "Cheque"
+            ],
+            "en": [
+              "Check"
+            ],
+            "it": [
+              "Assegno"
+            ],
+            "fr": [
+              "Chèque"
+            ],
+            "nl": [
+              "Cheque"
+            ],
+            "es": [
+              "Cheque"
+            ]
+          }
+        },
+        {
+          "@id": "kb:HolidayVouchers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Urlaubsschecks"
+            ],
+            "pt": [
+              "Vales de férias"
+            ],
+            "en": [
+              "Holiday vouchers"
+            ],
+            "it": [
+              "Buoni vacanza"
+            ],
+            "fr": [
+              "Chèques vacances"
+            ],
+            "nl": [
+              "Vakantiecheques"
+            ],
+            "es": [
+              "Cheques de vacaciones"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

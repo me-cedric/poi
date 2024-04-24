@@ -1,0 +1,1734 @@
+{
+  "@id": "https://data.datatourisme.fr/3/5e663694-8452-38c6-af95-9dd88c38342c",
+  "dc:identifier": "HLOCHA0102655780",
+  "@type": [
+    "schema:Accommodation",
+    "schema:House",
+    "schema:LodgingBusiness",
+    "schema:Product",
+    "Accommodation",
+    "AccommodationProduct",
+    "House",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "Product",
+    "RentalAccommodation",
+    "SelfCateringAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Chez la grand-mère Maria"
+    ]
+  },
+  "creationDate": "2019-12-06",
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/a941da34-75a4-3af8-a8c7-bd7032eff75b",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/9033b18a-944b-3481-b1d4-f416c8e805d9",
+        "schema:addressLocality": "Bar-sur-Aube",
+        "schema:postalCode": "10200",
+        "schema:streetAddress": [
+          "4 boulevard du 14 juillet"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:10033",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Bar-sur-Aube"
+            ],
+            "pt": [
+              "Bar-sur-Aube"
+            ],
+            "en": [
+              "Bar-sur-Aube"
+            ],
+            "it": [
+              "Bar-sur-Aube"
+            ],
+            "fr": [
+              "Bar-sur-Aube"
+            ],
+            "nl": [
+              "Bar-sur-Aube"
+            ],
+            "es": [
+              "Bar-sur-Aube"
+            ]
+          },
+          "insee": "10033",
+          "isPartOfDepartment": {
+            "@id": "kb:France4410",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Aube"
+              ],
+              "pt": [
+                "Aube"
+              ],
+              "en": [
+                "Aube"
+              ],
+              "it": [
+                "Aube"
+              ],
+              "fr": [
+                "Aube"
+              ],
+              "nl": [
+                "Aube"
+              ],
+              "es": [
+                "Aube"
+              ]
+            },
+            "insee": "10",
+            "isPartOfRegion": {
+              "@id": "kb:France44",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Grand Est"
+                ],
+                "pt": [
+                  "Grand Est"
+                ],
+                "en": [
+                  "Grand Est"
+                ],
+                "it": [
+                  "Grand Est"
+                ],
+                "fr": [
+                  "Grand Est"
+                ],
+                "nl": [
+                  "Grand Est"
+                ],
+                "es": [
+                  "Grand Est"
+                ]
+              },
+              "insee": "44",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "contact@tourisme-cotedesbar.com"
+    ],
+    "schema:legalName": "Office de Tourisme de la Côte des Bar en Champagne",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.tourisme-cotedesbar.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/6c960dda-efb7-39b8-9229-7e88e3a297e4",
+      "schema:email": [
+        "bonjour@aube-champagne.com"
+      ],
+      "schema:legalName": "Aube en Champagne Tourisme",
+      "schema:telephone": [
+        "+33 3 25 42 50 00"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.aube-champagne.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/1d5c5bb5-4279-3876-98e8-8d13f3aad29b",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/eef65ab2-e136-3941-9290-af338c054afe",
+          "schema:addressLocality": "Celles-sur-Ource",
+          "schema:postalCode": "10110",
+          "schema:streetAddress": [
+            "3 rue du Pré"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:10070",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Celles-sur-Ource"
+              ],
+              "pt": [
+                "Celles-sur-Ource"
+              ],
+              "en": [
+                "Celles-sur-Ource"
+              ],
+              "it": [
+                "Celles-sur-Ource"
+              ],
+              "fr": [
+                "Celles-sur-Ource"
+              ],
+              "nl": [
+                "Celles-sur-Ource"
+              ],
+              "es": [
+                "Celles-sur-Ource"
+              ]
+            },
+            "insee": "10070",
+            "isPartOfDepartment": {
+              "@id": "kb:France4410",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Aube"
+                ],
+                "pt": [
+                  "Aube"
+                ],
+                "en": [
+                  "Aube"
+                ],
+                "it": [
+                  "Aube"
+                ],
+                "fr": [
+                  "Aube"
+                ],
+                "nl": [
+                  "Aube"
+                ],
+                "es": [
+                  "Aube"
+                ]
+              },
+              "insee": "10",
+              "isPartOfRegion": {
+                "@id": "kb:France44",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Grand Est"
+                  ],
+                  "pt": [
+                    "Grand Est"
+                  ],
+                  "en": [
+                    "Grand Est"
+                  ],
+                  "it": [
+                    "Grand Est"
+                  ],
+                  "fr": [
+                    "Grand Est"
+                  ],
+                  "nl": [
+                    "Grand Est"
+                  ],
+                  "es": [
+                    "Grand Est"
+                  ]
+                },
+                "insee": "44",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:email": [
+        "info@hebergementchezmaria.com"
+      ],
+      "schema:legalName": "Chez la grand-mère Maria",
+      "schema:telephone": [
+        "+33 3 25 38 57 27"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://hebergementchezmaria.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/d4edca5d-8a36-3373-bb24-a92aee6320ec",
+      "dc:description": {
+        "de": [
+          "Chez Maria in der Champagne.\nDas Haus der Großmutter Maria bietet Ihnen die Möglichkeit, sich während Ihres Aufenthalts dem friedlichen Alltag dieses charmanten Dorfes mit seiner Geschichte und seinen unzähligen Entdeckungen anzunähern.\n\nGesamtes Haus: 2 Schlafzimmer + Wohnzimmer ? Ausgestattete Küche ? Bio-Gemüsegarten ? Parkplatz.\nDieses restaurierte Landhäuschen wird Sie mit seinem Komfort und seiner Einfachheit begeistern.\nDie Kapazität von 4 bis 6 Personen verspricht Ihnen schöne Momente mit der Familie oder mit Freunden. Der Bio-Gemüsegarten steht Ihnen zur Verfügung. Wenn Sie die voll ausgestattete Küche mit ihren lokalen Rezepten reizt, lassen Sie Ihrer Kochseele freien Lauf!"
+        ],
+        "en": [
+          "Chez Maria in Champagne.\nGrandma Maria?s house will give you the opportunity to experience the peaceful daily life of this charming village, steeped in history and full of discoveries.\n\nWhole house : 2 Bedrooms + Living room ? Fully equipped kitchen ? Organic vegetable garden ? Parking space.\nThis restored country cottage will delight you with its comfort and simplicity.\nWith a capacity of 4 to 6 people, you'll be sure to enjoy your stay with family or friends. The organic vegetable garden is at your disposal, and if the fully-equipped kitchen and its local recipes tempt you, let your chef's soul express itself!"
+        ],
+        "it": [
+          "Chez Maria in Champagne.\nLa casa di nonna Maria vi permetterà di vivere la tranquilla vita quotidiana di questo affascinante villaggio, ricco di storia e di scoperte.\n\nTutta la casa: 2 camere da letto + soggiorno? Cucina attrezzata ? Orto biologico ? Posto auto.\nQuesto cottage di campagna restaurato vi delizierà con il suo comfort e la sua semplicità.\nPuò ospitare da 4 a 6 persone, quindi sarete sicuri di trascorrere un bel periodo in famiglia o con gli amici. L'orto biologico è a vostra disposizione e se la cucina completamente attrezzata e le sue ricette locali vi tentano, lasciate che la vostra anima di chef si esprima!"
+        ],
+        "fr": [
+          "Chez Maria en Champagne.\nLa maison de la Grand-mère Maria sera pour vous l’opportunité d’approcher le temps d’un séjour, le quotidien paisible de ce village de charme, chargé d’histoire et d’innombrables découvertes.\n\nMaison entière : 2 Chambres + Salon – Cuisine équipée – Potager Bio – Parking.\nCette maisonnette de campagne, restaurée, vous ravira par son confort et sa simplicité. \nSa capacité de 4 à 6 personnes, vous promet de jolis moments en famille ou entre amis. Le potager Bio est à votre disposition, si la cuisine équipée et ses recettes locales vous tentent, laissez s’exprimer votre âme de chef cuisinier !"
+        ],
+        "nl": [
+          "Chez Maria in Champagne.\nIn het huis van oma Maria ervaar je het rustige leven van alledag in dit charmante dorp, vol geschiedenis en ontdekkingen.\n\nHet hele huis: 2 slaapkamers + woonkamer ? Ingerichte keuken ? Biologische moestuin ? Parkeerplaats.\nDit gerestaureerde plattelandshuisje zal je verrukken met zijn comfort en eenvoud.\nHet is geschikt voor 4 tot 6 personen, dus je zult er zeker een geweldige tijd hebben met je familie of vrienden. De biologische moestuin staat tot uw beschikking, en als de volledig uitgeruste keuken en de lokale recepten u verleiden, laat uw chef-kokziel zich dan uitdrukken!"
+        ],
+        "es": [
+          "Chez Maria en Champaña.\nLa casa de la abuela Maria le brindará la oportunidad de experimentar la apacible vida cotidiana de este encantador pueblo, cargado de historia y lleno de descubrimientos.\n\nToda la casa: 2 dormitorios + sala de estar ? Cocina equipada ? Huerto ecológico ? Plaza de aparcamiento.\nEsta casa rural restaurada le encantará por su comodidad y sencillez.\nTiene capacidad para 4 a 6 personas, por lo que seguro que lo pasará en grande con su familia o amigos. El huerto ecológico está a su disposición, y si la cocina totalmente equipada y sus recetas locales le tientan, ¡deje que su alma de chef se exprese!"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/167f9db1-201e-36f1-824f-c33a63d94133",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/3236bc3f-7e38-3542-aee7-3e17e2d77574",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/3d875456-9a58-33a8-8a6f-f9c480faf56f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/89de720f-7625-32ba-99eb-59bb99e516d2",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/cab7f414-13d9-31bd-801f-d1ba9ebfdcb3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasMainRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/47598e01-a8f0-3dda-892e-e8ed19ccf7c5",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/30c08b1f-a497-31fd-916b-243a546b7224",
+          "ebucore:isCoveredBy": "Chez la grand-mère Maria",
+          "ebucore:title": {
+            "fr": [
+              "Chez la grand-mère Maria.jpg"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "Chez la grand-mère Maria"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/e66ef155-df78-3b8d-91a7-ba57c52c8be6",
+          "ebucore:locator": [
+            "http://medias.tourism-system.com/2/e/609121_chez_la_grand-mere_maria.jpeg"
+          ],
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/47598e01-a8f0-3dda-892e-e8ed19ccf7c5",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/30c08b1f-a497-31fd-916b-243a546b7224",
+          "ebucore:isCoveredBy": "Chez la grand-mère Maria",
+          "ebucore:title": {
+            "fr": [
+              "Chez la grand-mère Maria.jpg"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "Chez la grand-mère Maria"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/e66ef155-df78-3b8d-91a7-ba57c52c8be6",
+          "ebucore:locator": [
+            "http://medias.tourism-system.com/2/e/609121_chez_la_grand-mere_maria.jpeg"
+          ],
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/4d354b4c-5d18-390f-8885-858ed33af12b",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/2bfecd1f-9dc7-3627-a2f9-46d431d5566e",
+          "ebucore:title": {
+            "fr": [
+              "Chez la grand-mère Maria.jpg"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "Chez la grand-mère Maria"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/b54ab0c8-e2e0-3194-96a3-e2d6a41f6f7f",
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            },
+            {
+              "@id": "kb:PNG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "PDF-Bild"
+                ],
+                "pt": [
+                  "Imagem PDF"
+                ],
+                "en": [
+                  "PDF image file"
+                ],
+                "it": [
+                  "Immagine PDF"
+                ],
+                "fr": [
+                  "Image PDF"
+                ],
+                "nl": [
+                  "Pdf-afbeelding"
+                ],
+                "es": [
+                  "Imagen PDF"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/png"
+                ],
+                "pt": [
+                  "image/png"
+                ],
+                "en": [
+                  "image/png"
+                ],
+                "it": [
+                  "image/png"
+                ],
+                "fr": [
+                  "image/png"
+                ],
+                "nl": [
+                  "image/png"
+                ],
+                "es": [
+                  "image/png"
+                ]
+              }
+            }
+          ],
+          "ebucore:locator": [
+            "http://medias.tourism-system.com/0/c/609122_chez_la_grand-mere_maria1.jpeg"
+          ],
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/a533cba6-cb91-3be5-890e-aaa8564b2d2a",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/2bfecd1f-9dc7-3627-a2f9-46d431d5566e",
+          "ebucore:title": {
+            "fr": [
+              "Chez la grand-mère Maria.jpg"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "Chez la grand-mère Maria"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/9abb1a03-e862-3d01-86e7-57899590da53",
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            },
+            {
+              "@id": "kb:PNG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "PDF-Bild"
+                ],
+                "pt": [
+                  "Imagem PDF"
+                ],
+                "en": [
+                  "PDF image file"
+                ],
+                "it": [
+                  "Immagine PDF"
+                ],
+                "fr": [
+                  "Image PDF"
+                ],
+                "nl": [
+                  "Pdf-afbeelding"
+                ],
+                "es": [
+                  "Imagen PDF"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/png"
+                ],
+                "pt": [
+                  "image/png"
+                ],
+                "en": [
+                  "image/png"
+                ],
+                "it": [
+                  "image/png"
+                ],
+                "fr": [
+                  "image/png"
+                ],
+                "nl": [
+                  "image/png"
+                ],
+                "es": [
+                  "image/png"
+                ]
+              }
+            }
+          ],
+          "ebucore:locator": [
+            "http://medias.tourism-system.com/f/f/609125_chez_la_grand-mere_maria4.jpg"
+          ],
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/a699e0ec-9d7c-3087-8cf1-fb1aae22c2ce",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/2bfecd1f-9dc7-3627-a2f9-46d431d5566e",
+          "ebucore:title": {
+            "fr": [
+              "Chez la grand-mère Maria.jpg"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "Chez la grand-mère Maria"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/5420374e-b573-3d64-a894-2ae789933108",
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            },
+            {
+              "@id": "kb:PNG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "PDF-Bild"
+                ],
+                "pt": [
+                  "Imagem PDF"
+                ],
+                "en": [
+                  "PDF image file"
+                ],
+                "it": [
+                  "Immagine PDF"
+                ],
+                "fr": [
+                  "Image PDF"
+                ],
+                "nl": [
+                  "Pdf-afbeelding"
+                ],
+                "es": [
+                  "Imagen PDF"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/png"
+                ],
+                "pt": [
+                  "image/png"
+                ],
+                "en": [
+                  "image/png"
+                ],
+                "it": [
+                  "image/png"
+                ],
+                "fr": [
+                  "image/png"
+                ],
+                "nl": [
+                  "image/png"
+                ],
+                "es": [
+                  "image/png"
+                ]
+              }
+            }
+          ],
+          "ebucore:locator": [
+            "http://medias.tourism-system.com/2/e/609121_chez_la_grand-mere_maria.jpeg"
+          ],
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b6f508d4-2d3a-3f92-9dea-2df2714d4f9c",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/2bfecd1f-9dc7-3627-a2f9-46d431d5566e",
+          "ebucore:title": {
+            "fr": [
+              "Chez la grand-mère Maria.jpg"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "Chez la grand-mère Maria"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/b03973be-cda3-3b3d-bcde-960752c44b89",
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            },
+            {
+              "@id": "kb:PNG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "PDF-Bild"
+                ],
+                "pt": [
+                  "Imagem PDF"
+                ],
+                "en": [
+                  "PDF image file"
+                ],
+                "it": [
+                  "Immagine PDF"
+                ],
+                "fr": [
+                  "Image PDF"
+                ],
+                "nl": [
+                  "Pdf-afbeelding"
+                ],
+                "es": [
+                  "Imagen PDF"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/png"
+                ],
+                "pt": [
+                  "image/png"
+                ],
+                "en": [
+                  "image/png"
+                ],
+                "it": [
+                  "image/png"
+                ],
+                "fr": [
+                  "image/png"
+                ],
+                "nl": [
+                  "image/png"
+                ],
+                "es": [
+                  "image/png"
+                ]
+              }
+            }
+          ],
+          "ebucore:locator": [
+            "http://medias.tourism-system.com/f/1/609124_chez_la_grand-mere_maria3.jpg"
+          ],
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/d156c174-1399-345f-a5e7-485ccab7846b",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/2bfecd1f-9dc7-3627-a2f9-46d431d5566e",
+          "ebucore:title": {
+            "fr": [
+              "Chez la grand-mère Maria.jpg"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "Chez la grand-mère Maria"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/6ffba130-a68a-3790-9c91-ae3e4afc966d",
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            },
+            {
+              "@id": "kb:PNG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "PDF-Bild"
+                ],
+                "pt": [
+                  "Imagem PDF"
+                ],
+                "en": [
+                  "PDF image file"
+                ],
+                "it": [
+                  "Immagine PDF"
+                ],
+                "fr": [
+                  "Image PDF"
+                ],
+                "nl": [
+                  "Pdf-afbeelding"
+                ],
+                "es": [
+                  "Imagen PDF"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/png"
+                ],
+                "pt": [
+                  "image/png"
+                ],
+                "en": [
+                  "image/png"
+                ],
+                "it": [
+                  "image/png"
+                ],
+                "fr": [
+                  "image/png"
+                ],
+                "nl": [
+                  "image/png"
+                ],
+                "es": [
+                  "image/png"
+                ]
+              }
+            }
+          ],
+          "ebucore:locator": [
+            "http://medias.tourism-system.com/8/4/609123_chez_la_grand-mere_maria2.jpeg"
+          ],
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasReview": [
+    {
+      "@id": "https://data.datatourisme.fr/2be01c8a-de7b-393b-b059-2d32a7089289",
+      "@type": [
+        "Review"
+      ],
+      "hasReviewValue": {
+        "@id": "kb:ScaleRating_3epis",
+        "schema:ratingValue": "3.0",
+        "@type": [
+          "ScaleRating"
+        ],
+        "rdfs:label": {
+          "de": [
+            "3 Ähren/Komfort"
+          ],
+          "pt": [
+            "3 espigas / conforto"
+          ],
+          "en": [
+            "3 ears of corn / Confort level"
+          ],
+          "it": [
+            "3 spighe / Comfort"
+          ],
+          "fr": [
+            "3 épis / Confort"
+          ],
+          "es": [
+            "3 espigas/Confort"
+          ],
+          "nl": [
+            "3 aren / Comfort"
+          ]
+        },
+        "isCompliantWith": [
+          "Chalet",
+          "Guesthouse",
+          "SelfCateringAccommodation"
+        ]
+      }
+    },
+    {
+      "@id": "https://data.datatourisme.fr/7724dbf0-7649-358b-be17-1db1b66a240f",
+      "@type": [
+        "Review"
+      ],
+      "hasReviewValue": {
+        "@id": "kb:ScaleRating_3etoiles",
+        "schema:ratingValue": "3.0",
+        "@type": [
+          "ScaleRating"
+        ],
+        "rdfs:label": {
+          "de": [
+            "3 Sterne"
+          ],
+          "pt": [
+            "3 estrelas"
+          ],
+          "en": [
+            "3 Stars"
+          ],
+          "it": [
+            "3 stelle"
+          ],
+          "fr": [
+            "3 étoiles"
+          ],
+          "nl": [
+            "3 sterren"
+          ],
+          "es": [
+            "3 estrellas"
+          ]
+        },
+        "isCompliantWith": [
+          "CampingAndCaravanning",
+          "ClubOrHolidayVillage",
+          "HolidayCentre",
+          "Hotel",
+          "SelfCateringAccommodation"
+        ]
+      }
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e497d34e-5d1a-3281-a6a0-e0fb0481ed59",
+      "@type": [
+        "Review"
+      ],
+      "hasReviewValue": {
+        "@id": "kb:ScaleRating_3etoiles",
+        "schema:ratingValue": "3.0",
+        "@type": [
+          "ScaleRating"
+        ],
+        "rdfs:label": {
+          "de": [
+            "3 Sterne"
+          ],
+          "pt": [
+            "3 estrelas"
+          ],
+          "en": [
+            "3 Stars"
+          ],
+          "it": [
+            "3 stelle"
+          ],
+          "fr": [
+            "3 étoiles"
+          ],
+          "nl": [
+            "3 sterren"
+          ],
+          "es": [
+            "3 estrellas"
+          ]
+        },
+        "isCompliantWith": [
+          "CampingAndCaravanning",
+          "ClubOrHolidayVillage",
+          "HolidayCentre",
+          "Hotel",
+          "SelfCateringAccommodation"
+        ]
+      },
+      "reviewDeliveryDate": "2020-06-23"
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f8884d70-4a02-376b-a0b0-3171c508b279",
+      "@type": [
+        "Review"
+      ],
+      "hasReviewValue": {
+        "@id": "kb:LabelRating_GitesDeFrance",
+        "@type": [
+          "LabelRating"
+        ],
+        "rdfs:label": {
+          "de": [
+            "Gîtes de France"
+          ],
+          "pt": [
+            "Gîtes de France"
+          ],
+          "en": [
+            "Gîtes de France"
+          ],
+          "it": [
+            "Gîtes de France"
+          ],
+          "fr": [
+            "Gîtes de France"
+          ],
+          "nl": [
+            "Gîtes de France"
+          ],
+          "es": [
+            "Gîtes de France"
+          ]
+        },
+        "isCompliantWith": [
+          "Guesthouse",
+          "SelfCateringAccommodation"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/bf66f718-2b50-37c8-99e5-0e24399b0076",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/eef65ab2-e136-3941-9290-af338c054afe",
+          "schema:addressLocality": "Celles-sur-Ource",
+          "schema:postalCode": "10110",
+          "schema:streetAddress": [
+            "3 rue du Pré"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:10070",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Celles-sur-Ource"
+              ],
+              "pt": [
+                "Celles-sur-Ource"
+              ],
+              "en": [
+                "Celles-sur-Ource"
+              ],
+              "it": [
+                "Celles-sur-Ource"
+              ],
+              "fr": [
+                "Celles-sur-Ource"
+              ],
+              "nl": [
+                "Celles-sur-Ource"
+              ],
+              "es": [
+                "Celles-sur-Ource"
+              ]
+            },
+            "insee": "10070",
+            "isPartOfDepartment": {
+              "@id": "kb:France4410",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Aube"
+                ],
+                "pt": [
+                  "Aube"
+                ],
+                "en": [
+                  "Aube"
+                ],
+                "it": [
+                  "Aube"
+                ],
+                "fr": [
+                  "Aube"
+                ],
+                "nl": [
+                  "Aube"
+                ],
+                "es": [
+                  "Aube"
+                ]
+              },
+              "insee": "10",
+              "isPartOfRegion": {
+                "@id": "kb:France44",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Grand Est"
+                  ],
+                  "pt": [
+                    "Grand Est"
+                  ],
+                  "en": [
+                    "Grand Est"
+                  ],
+                  "it": [
+                    "Grand Est"
+                  ],
+                  "fr": [
+                    "Grand Est"
+                  ],
+                  "nl": [
+                    "Grand Est"
+                  ],
+                  "es": [
+                    "Grand Est"
+                  ]
+                },
+                "insee": "44",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/fa542a57-add2-3de8-9a88-5d3ba3e2dd71",
+        "schema:latitude": "48.0768272",
+        "schema:longitude": "4.4008788",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f6c956b7-965c-3ae9-ab17-c481c2f87997",
+          "schema:validFrom": "2020-01-01T00:00:00",
+          "schema:validThrough": "2020-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/1d5c5bb5-4279-3876-98e8-8d13f3aad29b",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/eef65ab2-e136-3941-9290-af338c054afe",
+          "schema:addressLocality": "Celles-sur-Ource",
+          "schema:postalCode": "10110",
+          "schema:streetAddress": [
+            "3 rue du Pré"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:10070",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Celles-sur-Ource"
+              ],
+              "pt": [
+                "Celles-sur-Ource"
+              ],
+              "en": [
+                "Celles-sur-Ource"
+              ],
+              "it": [
+                "Celles-sur-Ource"
+              ],
+              "fr": [
+                "Celles-sur-Ource"
+              ],
+              "nl": [
+                "Celles-sur-Ource"
+              ],
+              "es": [
+                "Celles-sur-Ource"
+              ]
+            },
+            "insee": "10070",
+            "isPartOfDepartment": {
+              "@id": "kb:France4410",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Aube"
+                ],
+                "pt": [
+                  "Aube"
+                ],
+                "en": [
+                  "Aube"
+                ],
+                "it": [
+                  "Aube"
+                ],
+                "fr": [
+                  "Aube"
+                ],
+                "nl": [
+                  "Aube"
+                ],
+                "es": [
+                  "Aube"
+                ]
+              },
+              "insee": "10",
+              "isPartOfRegion": {
+                "@id": "kb:France44",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Grand Est"
+                  ],
+                  "pt": [
+                    "Grand Est"
+                  ],
+                  "en": [
+                    "Grand Est"
+                  ],
+                  "it": [
+                    "Grand Est"
+                  ],
+                  "fr": [
+                    "Grand Est"
+                  ],
+                  "nl": [
+                    "Grand Est"
+                  ],
+                  "es": [
+                    "Grand Est"
+                  ]
+                },
+                "insee": "44",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:email": [
+        "info@hebergementchezmaria.com"
+      ],
+      "schema:legalName": "Chez la grand-mère Maria",
+      "schema:telephone": [
+        "+33 3 25 38 57 27"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://hebergementchezmaria.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2024-03-11",
+  "lastUpdateDatatourisme": "2024-03-11T17:58:19.644Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/468a52d1-aa65-3639-839e-c7cf86fca2bf",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/dd1c93a8-a9aa-3f0c-8bee-7bb53150c41b",
+          "schema:priceCurrency": "Eur",
+          "@type": [
+            "schema:PriceSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}
