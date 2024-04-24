@@ -77,10 +77,12 @@ export class NaviPoi {
       type: 'Feature',
       id: apiPoi['dc:identifier'],
       properties: {
-        marker_type: apiPoi['@type']?.[0],
+        marker_type: 'TOURISTIC',
         id: apiPoi['dc:identifier'],
         name: apiPoi['@rdfs:label']?.fr?.[0],
-        touristic_type: apiPoi['@type']?.[1],
+        touristic_type: apiPoi['@type']?.[1]
+          ?.split?.(':')?.[1]
+          ?.toLocaleLowerCase(),
         description: apiPoi.hasDescription?.[0]?.['dc:description']?.fr?.[0],
         contact: {
           name: apiPoi.hasContact?.[0]?.['schema:legalName'],
